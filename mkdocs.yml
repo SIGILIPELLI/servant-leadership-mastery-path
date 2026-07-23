@@ -1,0 +1,100 @@
+site_name: Servant Leadership Mastery Path
+site_description: A structured, module-wise servant leadership training program from entry level to master level.
+site_url: https://sigilipelli.github.io/servant-leadership-mastery-path/
+repo_url: https://github.com/SIGILIPELLI/servant-leadership-mastery-path
+repo_name: servant-leadership-mastery-path
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - content.code.copy
+    - content.code.annotate
+    - search.suggest
+    - search.highlight
+
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Privacy Policy: privacy.md
+  - "Level 1 · Entry":
+      - Overview: level-1/index.md
+      - "01 · What Is Servant Leadership?": level-1/01-what-is-servant-leadership.md
+      - "02 · Self-Awareness & Emotional Intelligence Basics": level-1/02-self-awareness-emotional-intelligence.md
+      - "03 · Active Listening": level-1/03-active-listening.md
+      - "04 · Empathy in Leadership": level-1/04-empathy-in-leadership.md
+      - "05 · Building Trust": level-1/05-building-trust.md
+      - "06 · Empowering Others (Delegation Basics)": level-1/06-empowering-others-delegation-basics.md
+      - "07 · Foundational Communication Skills": level-1/07-foundational-communication-skills.md
+      - "08 · Feedback Basics (Giving and Receiving)": level-1/08-feedback-basics.md
+      - "09 · Serving vs. Directing (The Mindset Shift)": level-1/09-serving-vs-directing.md
+      - "10 · Project — Personal Servant Leadership Philosophy Statement": level-1/10-project-philosophy-statement.md
+  - "Level 2 · Intermediate":
+      - Overview: level-2/index.md
+      - "01 · Coaching Fundamentals for Leaders": level-2/01-coaching-fundamentals.md
+      - "02 · Conflict Resolution as a Servant Leader": level-2/02-conflict-resolution.md
+      - "03 · Building Psychological Safety": level-2/03-psychological-safety.md
+      - "04 · Team Development Stages (Tuckman's Model)": level-2/04-team-development-stages.md
+      - "05 · Delegation Deep Dive": level-2/05-delegation-deep-dive.md
+      - "06 · Difficult Conversations": level-2/06-difficult-conversations.md
+      - "07 · Leading Through Change": level-2/07-leading-through-change.md
+      - "08 · Recognizing & Developing Talent": level-2/08-recognizing-developing-talent.md
+      - "09 · Servant Leadership in Meetings": level-2/09-servant-leadership-in-meetings.md
+      - "10 · Project — A Coaching Plan for a Direct Report": level-2/10-project-coaching-plan.md
+  - "Level 3 · Advanced":
+      - Overview: level-3/index.md
+      - "01 · Organizational Culture & Servant Leadership": level-3/01-organizational-culture.md
+      - "02 · Leading Without Formal Authority": level-3/02-leading-without-formal-authority.md
+      - "03 · Systems Thinking for Leaders": level-3/03-systems-thinking.md
+      - "04 · Advanced Coaching Techniques (the GROW Model)": level-3/04-advanced-coaching-grow-model.md
+      - "05 · Building High-Performing Teams": level-3/05-high-performing-teams.md
+      - "06 · Leading Remote/Distributed Teams with Servant Leadership": level-3/06-leading-remote-teams.md
+      - "07 · Ethical Leadership & Decision-Making": level-3/07-ethical-leadership-decision-making.md
+      - "08 · Mentorship Programs": level-3/08-mentorship-programs.md
+      - "09 · Measuring Leadership Effectiveness": level-3/09-measuring-leadership-effectiveness.md
+      - "10 · Project — A Team Development Plan": level-3/10-project-team-development-plan.md
+  - "Level 4 · Master":
+      - Overview: level-4/index.md
+      - "01 · Servant Leadership at the Executive Level": level-4/01-servant-leadership-executive-level.md
+      - "02 · Building a Servant Leadership Culture Org-Wide": level-4/02-servant-leadership-culture-org-wide.md
+      - "03 · Succession Planning": level-4/03-succession-planning.md
+      - "04 · Leading Through Crisis with Servant Leadership": level-4/04-leading-through-crisis.md
+      - "05 · Servant Leadership & DEI": level-4/05-servant-leadership-dei.md
+      - "06 · Board & Stakeholder Relations": level-4/06-board-stakeholder-relations.md
+      - "07 · Global Leadership Considerations": level-4/07-global-leadership-considerations.md
+      - "08 · Legacy & Long-Term Impact": level-4/08-legacy-long-term-impact.md
+      - "09 · Personal Leadership Development Planning": level-4/09-personal-leadership-development-planning.md
+      - "10 · Capstone — Design an Org-Wide Leadership Development Program": level-4/10-capstone-leadership-development-program.md
