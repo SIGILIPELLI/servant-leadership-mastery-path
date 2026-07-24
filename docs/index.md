@@ -1,3 +1,8 @@
+---
+title: "Servant Leadership Course Free: Beginner to Master"
+description: "Free servant leadership course from beginner to advanced -- real frameworks, exercises, and a leadership philosophy project. Part of a 37-course library."
+---
+
 # Servant Leadership Mastery Path
 
 A structured, module-wise servant leadership training program that takes you
