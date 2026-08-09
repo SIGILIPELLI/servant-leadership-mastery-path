@@ -62,8 +62,19 @@ nav:
       - "08 · Feedback Basics (Giving and Receiving)": level-1/08-feedback-basics.md
       - "09 · Serving vs. Directing (The Mindset Shift)": level-1/09-serving-vs-directing.md
       - "10 · Project — Personal Servant Leadership Philosophy Statement": level-1/10-project-philosophy-statement.md
+  - "Level 2 · Intermediate":
+      - Overview: level-2/index.md
+      - "01 · Coaching Fundamentals for Leaders": level-2/01-coaching-fundamentals.md
+      - "02 · Conflict Resolution as a Servant Leader": level-2/02-conflict-resolution.md
+      - "03 · Building Psychological Safety": level-2/03-psychological-safety.md
+      - "04 · Team Development Stages (Tuckman's Model)": level-2/04-team-development-stages.md
+      - "05 · Delegation Deep Dive": level-2/05-delegation-deep-dive.md
+      - "06 · Difficult Conversations": level-2/06-difficult-conversations.md
+      - "07 · Leading Through Change": level-2/07-leading-through-change.md
+      - "08 · Recognizing & Developing Talent": level-2/08-recognizing-developing-talent.md
+      - "09 · Servant Leadership in Meetings": level-2/09-servant-leadership-in-meetings.md
+      - "10 · Project — A Coaching Plan for a Direct Report": level-2/10-project-coaching-plan.md
 # --- auto-pruned stub levels (see AdSense low-value-content fix) ---
 exclude_docs: |
-  level-2/*.md
   level-3/*.md
   level-4/*.md

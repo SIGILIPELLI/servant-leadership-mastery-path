@@ -20,7 +20,7 @@ and reflection exercises rather than snippets.
 | Level | Focus | Modules |
 |-------|-------|---------|
 | [Level 1 · Entry](level-1/index.md) | Core philosophy, self-awareness, listening, empathy, trust, delegation basics | 9 topics + 1 project |
-| Level 2 · Intermediate (coming soon) | Coaching, conflict resolution, psychological safety, team development | 9 topics + 1 project |
+| [Level 2 · Intermediate](level-2/index.md) | Coaching, conflict resolution, psychological safety, team development | 9 topics + 1 project |
 | Level 3 · Advanced (coming soon) | Culture, influence without authority, systems thinking, high-performing teams | 9 topics + 1 project |
 | Level 4 · Master (coming soon) | Executive-level servant leadership, culture at scale, crisis, legacy | 9 topics + 1 capstone |
 
