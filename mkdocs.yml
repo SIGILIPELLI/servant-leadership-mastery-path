@@ -1,8 +1,8 @@
 site_name: Servant Leadership Mastery Path
 site_description: A structured, module-wise servant leadership training program from entry level to master level.
-site_url: https://sigilipelli.github.io/servant-leadership-skillmastery/
-repo_url: https://github.com/SIGILIPELLI/servant-leadership-skillmastery
-repo_name: servant-leadership-skillmastery
+site_url: https://sigilipelli.github.io/servant-leadership-mastery-path/
+repo_url: https://github.com/SIGILIPELLI/servant-leadership-mastery-path
+repo_name: servant-leadership-mastery-path
 
 theme:
   name: material
