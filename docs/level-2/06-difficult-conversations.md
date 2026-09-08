@@ -206,6 +206,46 @@ is at stake has not been had.
 - **Total agreement.** Suspiciously fast agreement usually means escape.
   Ask "what will you actually do differently?" and listen for specifics.
 
+## How It Actually Works
+
+Why the opening sentence decides the outcome is explained by a concept from
+conversation-analysis research called **preference structure**: the first
+turn of an exchange sets up which of several possible next moves the other
+party can produce without it counting as a socially costly deviation. An
+opening like "we need to talk about your performance" structurally invites
+either silent acceptance or open confrontation as the two "fitting" next
+moves — there's no comfortable slot for the collaborative, curious response
+a leader might actually want. An opening that names the specific behavior
+and observed impact, then asks a genuine question ("here's what I noticed
+and its effect — help me understand what was going on"), creates a
+structural slot for exactly that collaborative response, because the turn
+itself was built to invite it. This is the same SBI logic from the Level 1
+feedback module, applied to a higher-stakes conversation.
+
+**Why preparation worksheets outperform winging it, specifically for
+difficult conversations.** Under the anticipatory stress of a hard
+conversation, working memory capacity is measurably reduced (a well-studied
+effect called stress-induced cognitive narrowing), which means a leader who
+hasn't pre-loaded their key points, the behavior-impact facts, and their
+own emotional triggers into the conversation plan is trying to generate
+all of that live, under exactly the conditions least suited to generating
+it well. Writing it beforehand offloads that cognitive burden to before the
+stress spike, leaving more working-memory capacity during the actual
+conversation for listening and adapting — the same offloading principle
+behind pilots' pre-flight checklists.
+
+**Why landmines (the specific phrases and moves that derail these
+conversations) are worth memorizing explicitly rather than trusting good
+intent in the moment.** Phrases like "you always" or "everyone thinks"
+trigger the identity-threat response covered in the feedback and
+psychological-safety modules almost automatically, regardless of the
+speaker's actual intent — the listener's threat-detection system responds
+to the absolute/generalizing language pattern itself, not to the specific
+content. Because this response fires before deliberate processing catches
+up (the same 100-200ms head start described in the self-awareness module),
+a leader's genuinely good intent doesn't prevent the phrase from landing as
+an attack; only avoiding the trigger pattern in the first place does.
+
 ## Exercise
 
 Name the conversation you have been avoiding — the one that surfaced in

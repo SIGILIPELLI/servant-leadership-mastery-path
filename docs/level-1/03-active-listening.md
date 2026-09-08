@@ -76,6 +76,42 @@ The reflecting and clarifying question surfaced the real issue in under a
 minute; the placating response would have left it to fester and resurface
 later, worse.
 
+## How It Actually Works
+
+Active listening isn't just "being polite while someone talks" — it changes
+what the speaker themselves knows, through a mechanism cognitive scientists
+call **externalization**. Most people's thinking is under-specified until it
+is forced into language: you can hold a vague sense that "something feels
+off about the project plan" without having identified what, specifically, is
+off. The act of speaking it aloud to a listener who is visibly tracking and
+occasionally reflecting it back forces the vague sense through the
+bottleneck of language production, which requires resolving ambiguity that
+silent thought lets slide. This is why people routinely say "I didn't
+realize that's what I thought until I said it out loud" — the listener
+didn't add the insight; the act of articulating it to a listener produced it.
+
+**Paraphrasing works because it closes a verification loop, not because it
+demonstrates attentiveness.** Communication is inherently lossy: the
+speaker's internal model gets compressed into words, and the listener's
+brain reconstructs an internal model from those words, and the two models
+are never identical. Left unchecked, this gap compounds silently — the
+leader walks away confident they understood, and the report walks away
+assuming they were understood, and both are wrong in different amounts.
+Paraphrasing surfaces the gap immediately, while it's cheap to fix, instead
+of downstream when a decision has already been made on the wrong model of
+what was said.
+
+**Why interrupting to solve is costly beyond politeness.** When a listener
+jumps in with a fix, the speaker's cognitive resources shift from
+elaborating their own thinking to processing and evaluating someone else's
+— a genuine attention switch, not just a social slight. Interrupted people
+measurably produce shorter, less complete accounts of their own reasoning
+afterward (this shows up in negotiation and interview research as reduced
+"information yield"), which means a leader who interrupts to solve is
+trading a faster-feeling conversation for a worse-informed decision, because
+they never got the fuller account that silence and reflection would have
+drawn out.
+
 ## Exercise
 
 In your next three one-on-one or problem-bringing conversations (with a

@@ -215,6 +215,48 @@ whole job in the neutral zone.
   properly" is honest and loyal at the same time. What you may not do is
   privately disown it while publicly delivering it.
 
+## How It Actually Works
+
+The change/transition distinction (from William Bridges' transition model)
+matters because change and transition operate on different timelines and
+different mechanisms. Change is an event — the reorg is announced, the tool
+is switched, the policy takes effect — and can happen instantly. Transition
+is the psychological process of updating one's own internal model of "how
+things work here" and "what my role/identity is" to match the new reality,
+and that process runs on a slower, non-negotiable timeline governed by how
+much of a person's prior mental model the change invalidates. Announcing
+the change does not compress the transition timeline, any more than
+announcing a new fact compresses how long it takes memory to actually
+consolidate a belief update — which is why leaders who expect full buy-in
+immediately after an announcement are applying an event's timeline to a
+process that runs on a different clock.
+
+**Why the four questions everyone is actually asking work as a mechanism,
+not just a communication template.** Under uncertainty, the brain treats
+unanswered questions about threat and status ("will I still have a role,
+will I still be good at my job, what happened to what I built, what
+happens to my team") as unresolved threat signals that keep the
+stress-response system engaged, the same amygdala-mediated response
+described elsewhere in this track. Answering these questions explicitly —
+even with an honest "I don't know yet, and here's when I will" — doesn't
+just provide information, it gives the threat-detection system something
+concrete to stop scanning for, which is measurably different from silence,
+even silence the leader intends as reassuring.
+
+**Why the "neutral zone" (the messy middle where the old way is gone but
+the new way isn't fluent yet) is where performance dips, and why that dip
+is not evidence the change was a mistake.** Any newly formed procedural
+skill requires deliberate, effortful execution before it becomes automatic
+— this is the same explicit-to-automatic skill transition studied in motor
+learning, and it applies to organizational skills (a new process, a new
+tool) just as much as to physical ones. During the neutral zone, people are
+running new procedures through effortful System 2 processing instead of
+the fast System 1 processing the old procedure had become — which produces
+a real, temporary productivity dip that has nothing to do with resistance
+or the quality of the new approach, and everything to do with the
+learning curve every new procedure has to pass through before it can run
+automatically.
+
 ## Exercise
 
 Take a change your team is living through now, or one you know is

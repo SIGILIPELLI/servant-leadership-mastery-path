@@ -170,6 +170,45 @@ month — I'll be more directive for a bit, and that's temporary" converts
 a confusing experience into an expected one. Teams tolerate regression
 well when it is named, and badly when it is denied.
 
+## How It Actually Works
+
+Tuckman's stages describe a real, mechanistically-grounded process: a group
+of individuals has to build a **shared mental model** (of norms, roles, and
+how disagreement gets resolved) before it can function as a coordinated
+unit, and that model can only be built through actual friction, not
+declared into existence. Forming looks calm because no one has yet tested
+where the real boundaries are — people default to polite, low-information
+behavior because the group's operating norms are genuinely unknown.
+Storming is the necessary process of that model actually getting built:
+disagreements surface real information about priorities, working styles,
+and authority that politeness in Forming was hiding. A team that skips
+straight from Forming to apparent "Norming" (or is managed to avoid
+conflict) hasn't actually built a shared model — it has a norm of avoidance
+sitting on top of unresolved, undiscussed disagreements that will resurface
+later, usually at a worse time.
+
+**Why deliberately entering Storming is often the right leadership move,
+not a failure to prevent conflict.** Suppressing early disagreement doesn't
+remove the underlying divergence in mental models — it just defers the
+friction to a moment the leader doesn't control (often under
+higher-stakes pressure later). A leader who structures a low-stakes,
+explicit disagreement early (as in the worked example) is deliberately
+triggering the model-building process while the cost of doing so is still
+low, which is a form of the same principle behind "fail fast" in
+engineering: surfacing a necessary failure early and cheaply beats letting
+it surface late and expensively.
+
+**Why regression under new stress is not a step backward in the model but
+consistent with it.** A new member, a changed goal, or an external shock
+partially invalidates the team's existing shared model — the norms that
+worked don't fully apply to the new configuration, so some Storming-like
+renegotiation is mechanically necessary again. Treating this as failure
+(as if the team should have "arrived" at Performing permanently)
+misunderstands the model: Tuckman's own later revisions describe stages as
+recursive, not a one-way staircase, because the underlying cause
+(divergent mental models needing reconciliation) recurs whenever the
+group's composition or goals change materially.
+
 ## Exercise
 
 Run the diagnostic in section 2 for your team this week, then run it

@@ -135,6 +135,45 @@ come from the same source — treating morale management as more urgent
 than honesty. Long-term trust survives honest bad news delivered on
 schedule far better than it survives a broken promise.
 
+## How It Actually Works
+
+Crisis pulls leaders away from servant leadership through the same
+mechanism identified in the empathy module: acute stress consumes the
+cognitive resources that effortful, System 2 behaviors (listening fully,
+coaching rather than directing, tolerating someone else's slower path to a
+decision) require, while leaving the fast, automatic System 1 behaviors
+(directing, taking control, narrowing focus to the immediate threat) fully
+available. This isn't a character failure under pressure — it's the
+predictable output of a threat-response system that evolved to prioritize
+speed over deliberation exactly when stakes feel highest, which is why
+leaders who are genuinely skilled at servant leadership in calm conditions
+reliably regress toward command-and-control under acute crisis unless
+they've deliberately built compensating structure in advance.
+
+**Why a pre-built Crisis Communication Script compensates for exactly this
+resource constraint.** Because effortful reasoning is the scarce resource
+under crisis stress, pre-deciding the *structure* of crisis communication
+(what to say first, how often to update, how to acknowledge uncertainty
+honestly) before the crisis happens means the leader is retrieving a
+rehearsed pattern under stress rather than generating one from scratch —
+the same offloading logic behind the difficult-conversation preparation
+worksheet in Level 2, but for a situation where the stress is
+categorically higher and the generation-from-scratch failure mode
+categorically more costly.
+
+**Why leaders who go silent or overpromise both fail for the same
+underlying reason.** Both are attempts to avoid the discomfort of
+communicating real uncertainty — silence avoids saying anything uncertain
+at all, overpromising resolves the uncertainty falsely in the reassuring
+direction — and both leave the "four questions everyone is actually
+asking" (from the change-leadership module) unanswered or answered falsely,
+which keeps the threat-detection systems of everyone watching in an
+aroused, unresolved state. Honest acknowledgment of uncertainty
+("here's what we know, here's what we don't, here's when we'll know more")
+is the only one of the three options that actually gives the
+threat-detection system something concrete to stop scanning for, even
+though it's also the most uncomfortable to say out loud.
+
 ## Exercise
 
 Write the Crisis Communication Script in section 2 for a plausible crisis

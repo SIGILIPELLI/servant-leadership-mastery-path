@@ -130,6 +130,46 @@ because the informal calibration that proximity used to provide is gone.
 - **Equating camera-off with disengagement.** Camera fatigue is real;
   build the trust structure in section 2 instead of policing cameras.
 
+## How It Actually Works
+
+What "breaks first" in remote teams follows directly from the loss of a
+specific information channel: **ambient signal**, the low-bandwidth,
+continuously-available cues a colocated team absorbs without effort (a
+tense posture in a hallway, an unusually quiet lunch, overhearing a
+frustrated aside). None of these are deliberate communications — they're
+passive leakage of state that a leader in the same building picks up
+without either party doing anything intentional. Remove physical
+proximity, and that entire channel drops to zero, while the deliberate,
+effortful channels (a scheduled message, an explicit status update)
+survive because they were never dependent on proximity to begin with. This
+is why "catching struggle without ambient signal" requires actively
+replacing an entire channel of information the leader didn't previously
+have to design for, rather than just doing the same leadership harder
+through a screen.
+
+**Why the Distributed Trust Plan compensates by making trust-relevant
+information explicit that used to be ambient.** Since the repeated-game
+trust mechanism from Level 1 needs observable data points to update on,
+and remote work removes the passive stream of small observable moments
+(seeing someone actually working, catching a quick unplanned check-in), a
+distributed leader has to deliberately manufacture equivalent data points
+— structured 1:1 cadences, visible work-in-progress — not because remote
+workers are less trustworthy, but because the *evidence* a leader needs to
+build trust confidently is structurally scarcer without deliberate
+replacement.
+
+**Why async-by-default, sync-for-judgment is the correct allocation, not
+just a scheduling preference.** Synchronous time is a genuinely scarce,
+non-parallelizable resource across time zones, so the systems-thinking
+principle from Module 3 applies directly: allocate the scarce resource to
+the step that actually requires it. Information transfer (status,
+updates) doesn't require real-time back-and-forth and degrades sync time's
+value when it consumes it; genuine judgment calls (weighing tradeoffs
+together, working through disagreement) benefit from the tight feedback
+loop only synchronous interaction provides, because complex judgment often
+needs the rapid clarify-and-refine cycle async communication's latency
+makes prohibitively slow.
+
 ## Exercise
 
 Fill in the Distributed Trust Plan in section 2 for your actual team,

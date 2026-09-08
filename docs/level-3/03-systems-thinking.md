@@ -127,6 +127,48 @@ problem still recurs with the same person but not with others rotated
 through the same structure, it has become an individual issue, and you
 should address it as one directly, using the tools from Level 2.
 
+## How It Actually Works
+
+"Same problem, different people" is the diagnostic tell for a systems
+problem because it rules out the most common false explanation:
+individual deficiency. If a role, not a person, is what's failing — three
+successive good performers all struggle with the same handoff — the
+explanatory weight has to shift from individual competence (which varied
+across three people) to something structural that stayed constant across
+all three: an information gap, a misaligned incentive, or a feedback delay
+built into the process itself. This is a direct application of a
+statistical principle: when an outcome varies little despite a varying
+input (different people), the causal factor is more likely to lie in what
+didn't vary (the structure) than in what did.
+
+**Why reinforcing and balancing loops behave so differently, and why
+confusing them leads to wrong interventions.** A reinforcing loop amplifies
+a deviation in the same direction each cycle (missed deadlines erode trust,
+eroded trust increases oversight, increased oversight slows the team down,
+slower work causes more missed deadlines) — mathematically, this is
+positive feedback, and without an external intervention it compounds
+rather than settling. A balancing loop pulls a system back toward a
+setpoint (a team naturally slows down as quality issues rise, which reduces
+the issues, which lets them speed up again) — negative feedback, which is
+self-correcting. Applying a balancing-loop intervention (just wait, it'll
+self-correct) to a reinforcing-loop problem lets the compounding continue
+unchecked; applying a reinforcing-loop intervention (push harder) to a
+balancing-loop problem fights a self-correcting mechanism that didn't need
+fighting. Diagnosing which loop type is active, using the actual causal
+map, is what determines which intervention direction is even plausible.
+
+**Why "just work harder" doesn't fix backlogs — the stock-and-flow
+distinction.** A backlog is a *stock* — an accumulated quantity — that only
+changes based on the *flow* rates in and out of it (new work arriving vs.
+work completed). Working harder increases the outflow rate, but if the
+inflow rate is equal or growing (new requests keep arriving at the same or
+higher pace), the stock's steady-state size doesn't actually change — it
+just moves faster through a still-growing or still-full backlog. This is
+the same dynamic studied formally in system dynamics (Forrester): you
+cannot fix a stock problem by adjusting only one flow when the other flow
+is the actual driver, which is why sustained backlog problems usually
+require addressing intake (the inflow), not just throughput (the outflow).
+
 ## Exercise
 
 Pick a problem in your organization that has survived at least two

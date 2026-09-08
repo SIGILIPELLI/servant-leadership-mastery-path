@@ -144,6 +144,46 @@ Three levers that don't require executive sponsorship:
   because of how she ran the postmortem, not despite it" does more work
   over five years than a values deck ever will — but only if it's true.
 
+## How It Actually Works
+
+"Culture is what gets rewarded, not what gets said" is describing a real
+learning mechanism: **reinforcement learning through observed
+consequences**, operating at the scale of a whole organization rather than
+one individual. Every employee is constantly, mostly unconsciously,
+updating their model of "what actually works here" based on what they see
+rewarded, tolerated, or punished — not based on posters or values
+statements, which carry no consequence signal at all. If someone who
+routinely cuts corners is promoted while someone who insists on quality but
+misses deadlines is quietly sidelined, that single visible data point
+updates everyone's model of the real reward function far more than any
+number of stated values, because a stated value carries no reinforcement
+signal while an observed promotion or demotion carries a strong one — this
+is the same credit-assignment principle used in reinforcement learning
+generally: behavior that leads to reward gets repeated and imitated,
+regardless of what the stated policy says should be rewarded.
+
+**Why one leader's behavior becomes a team's default through social
+learning, not decree.** Bandura's social learning theory describes
+observational learning as often more powerful than direct instruction,
+especially for ambiguous or high-stakes behaviors where a person can't
+easily verify the "right" way to act through trial and error themselves
+(challenging a superior's decision, admitting a mistake publicly). People
+default to imitating high-status, high-visibility models — which means a
+leader's behavior in exactly the visible moments (how they react to a
+mistake, whether they admit their own errors) gets replicated at a scale
+their direct instructions never reach, because instruction is filtered
+through the listener's judgment while observed modeling bypasses it.
+
+**Why shifting culture without formal mandate is possible at all.**
+Because culture is sustained by the reinforcement-and-modeling loop above
+rather than by the org chart, a leader without formal authority over the
+whole organization can still shift local culture by controlling the
+reinforcement signals within their own visible sphere — consistently
+rewarding the behavior they want observed, even at small scale, changes
+what nearby employees' models predict is rewarded, and that updated model
+propagates through the same observational mechanism regardless of whether
+it was formally sanctioned from above.
+
 ## Exercise
 
 Run the Culture Audit in section 2 on your own team, using one value your

@@ -139,6 +139,47 @@ average difference between cultures; treat every calibration as
 person-specific, informed by cultural context but not fully determined
 by it.
 
+## How It Actually Works
+
+The track's tools need adaptation across cultures because several of the
+underlying mechanisms this track has relied on — the specific behavior that
+signals psychological safety, the specific move that reads as respectful
+disagreement — are calibrated to a particular cultural default (largely a
+low-power-distance, direct-communication norm) rather than being culturally
+universal. Hofstede's cross-cultural research identifies power distance
+(how much hierarchy and deference is expected) and communication
+directness as two dimensions where defaults vary enormously — the
+psychological-safety move of "explicitly inviting the quietest person to
+speak before the most senior one" can read as appropriately inclusive in a
+low-power-distance culture and as a genuinely uncomfortable violation of
+expected hierarchy in a high-power-distance one, producing the *opposite*
+of the intended safety effect if applied without adaptation.
+
+**Why silence means different things in different cultures, and why
+misreading it produces real errors.** In some cultural communication
+norms, silence after a proposal signals unresolved disagreement being
+processed respectfully before response; in others, it signals agreement or
+simply that no further discussion is needed. A leader trained on one
+norm's default interpretation, applied to a team using the other norm,
+will systematically misjudge how much buy-in actually exists — not because
+either party is being unclear, but because the same observable signal
+(silence) maps to different underlying states depending on the
+communication norm generating it, which is a classic signal-decoding
+mismatch rather than a communication failure by either side.
+
+**Why some things don't get adapted away.** The underlying mechanisms this
+whole track is built on — the amygdala threat response to social risk, the
+self-generation effect in coaching, the trust-as-repeated-game dynamic —
+are human-universal, because they're grounded in shared neurobiology and
+game-theoretic structure, not cultural convention. What varies across
+cultures is the *specific surface behavior* that triggers or satisfies
+these universal mechanisms (what counts as a safety signal, what counts as
+a trust-building gesture), not whether the mechanisms themselves are
+present — which is why the module frames global leadership as adapting
+technique while keeping the underlying goal constant, rather than treating
+either extreme (assume everything transfers, or assume nothing does) as
+correct.
+
 ## Exercise
 
 Pick one tool from earlier in this track — a feedback approach, a

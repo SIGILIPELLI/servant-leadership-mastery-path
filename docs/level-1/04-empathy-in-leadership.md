@@ -88,6 +88,48 @@ follow-ups in one week. Two responses:
   papered over with a warning that would have addressed the wrong problem
   entirely.
 
+## How It Actually Works
+
+Cognitive and emotional empathy are not just two "styles" — they run on
+different, dissociable neural circuits, which is why some leaders have one
+without the other. Emotional empathy (feeling *with* someone) relies heavily
+on the mirror-neuron system and anterior insula, which simulate another
+person's affective state in your own body — it's involuntary and fast, and
+it's why sitting across from someone visibly distressed can raise your own
+heart rate. Cognitive empathy (modeling *what* someone is thinking or why)
+relies more on the temporoparietal junction and medial prefrontal cortex —
+the same "theory of mind" network used for deliberately reasoning about
+another person's beliefs and intentions, which is slower and more
+effortful. Leaders who score high on emotional empathy but low on cognitive
+empathy tend to absorb a team's distress without being able to act
+usefully on it (burnout risk); leaders high on cognitive empathy but low on
+emotional empathy can accurately predict what someone needs but come across
+as calculating, because there's no felt resonance backing the accuracy.
+Effective leadership empathy requires deliberately engaging both circuits.
+
+**Why empathy is not agreement — a distinct process, not a lesser degree of
+the same one.** Modeling someone's perspective (cognitive empathy) and
+evaluating whether their conclusion is correct (judgment) are handled by
+different processing stages. You can fully and accurately simulate why a
+report believes the deadline is unfair — their information, their
+constraints, their history — while your judgment stage independently
+concludes the deadline still has to hold. Conflating the two is a common
+failure: leaders either skip the modeling step and jump straight to
+judgment (which reads as dismissive, because the other person can tell
+their view was never actually simulated), or they let an accurate model
+override their independent judgment out of discomfort at holding a view the
+other person won't like.
+
+**Empathy under pressure fails because the same threat-response system
+narrows attention.** Under stress, cognitive load competes directly with
+the effortful, resource-hungry theory-of-mind network described above —
+this is why leaders reliably become *less* empathetic exactly when their
+teams need it most (a crisis, a tight deadline), not because they've become
+worse people but because the cognitive resources empathy requires are
+being consumed by the leader's own threat response. Deliberately budgeting
+time for a check-in during a crisis is compensating for a known resource
+constraint, not an optional nicety.
+
 ## Exercise
 
 Think of a recent moment where a team member, colleague, or friend reacted

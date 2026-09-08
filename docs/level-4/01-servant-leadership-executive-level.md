@@ -134,6 +134,42 @@ resolve below them. The organization's growth becomes capped at the
 executive's personal bandwidth, which is the opposite of what servant
 leadership at scale is supposed to produce.
 
+## How It Actually Works
+
+Personal presence stops scaling at the executive level for a structural,
+combinatorial reason: a leader's direct attention is a finite resource that
+grows linearly (roughly) at best, while the number of relationships and
+decisions in a growing organization grows closer to quadratically (more
+people means more pairwise interactions, more cross-team dependencies).
+Beyond a fairly small span, the math simply stops working — no amount of
+individual excellence at the Level 1-3 skills (listening, coaching,
+psychological safety) compensates for a resource that cannot scale to
+match the organization's growth curve, which is why executive-level servant
+leadership has to shift from "practicing the skills personally, everywhere"
+to "building systems that produce the skills' effects at scale."
+
+**Why the Leader-of-Leaders shift specifically targets leverage points, not
+just delegation writ larger.** The mechanism here extends the decision-rights
+transfer from the Level 1 delegation module, but applied to entire domains
+of judgment rather than individual tasks: an executive who resists solving
+problems personally is, functionally, keeping the organization's total
+decision-making capacity distributed across many capable people's
+judgment rather than bottlenecked through one person's attention — the
+same reinforcing-loop risk from Module 3 (a team learns to wait for the
+executive to solve things, which trains exactly the dependency that then
+requires the executive to keep solving things) but at organizational scale,
+where the compounding cost is far larger.
+
+**Why "visibility events" carry disproportionate weight, mechanically.**
+An executive's ordinary day-to-day behavior is invisible to most of the
+organization by construction — they simply aren't in the room. The rare
+moments that are visible organization-wide (a town hall answer, a visible
+reaction to bad news) become, through the same social-learning mechanism
+from the culture module, the dominant evidence the whole organization uses
+to infer "what this leader actually values," disproportionately outweighing
+any stated policy precisely because they're the only directly observed
+data points most employees ever get.
+
 ## Exercise
 
 Identify one decision that has come to you in the last month that should

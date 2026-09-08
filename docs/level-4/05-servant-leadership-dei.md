@@ -149,6 +149,45 @@ outlast any one manager's improved feedback habits. Treat your own audit
 as necessary and insufficient; pair it with the structural embedding
 work at the organizational level.
 
+## How It Actually Works
+
+Good intent quietly produces unequal outcomes through a well-documented
+mechanism: affinity bias, the tendency to unconsciously favor people who
+remind us of ourselves in background, communication style, or interests,
+when making judgment calls under ambiguity. Development opportunities and
+stretch assignments are almost never allocated by a fully objective
+formula — they're allocated through a leader's judgment about "who seems
+ready," and judgment calls made under ambiguity are exactly where affinity
+bias exerts the most influence, because there's no hard data forcing a
+different answer. The leader's intent (to develop the best people) is
+genuine; the bias operates upstream of intent, at the level of who even
+gets noticed as a plausible candidate for the opportunity in the first
+place.
+
+**Why an Equity Audit catches what individual awareness alone doesn't.**
+Because affinity bias operates below conscious awareness by construction,
+introspection ("am I being biased right now?") is a poor detection tool —
+this is the same self-assessment blind-spot problem from the
+leadership-effectiveness module, here applied to bias specifically. An
+audit that looks at the actual pattern of who received stretch
+assignments, promotions, or visible projects over time surfaces the
+aggregate effect of many individually-invisible micro-decisions, the same
+way the leadership signal set surfaces patterns no single interaction
+reveals — bias is far easier to see in an aggregated pattern than in any
+one decision examined alone.
+
+**Why inclusive listening is the same Level 1 skill applied to a specific,
+predictable distortion.** Active listening's core mechanism (surfacing
+information the listener wouldn't otherwise access) is most valuable
+exactly where a leader's own default frame of reference differs most from
+the speaker's — which means listening across a difference in background or
+experience carries disproportionately high information value, precisely
+because the leader is least likely to have already modeled that
+perspective correctly on their own. This is also why "just listen more in
+general" under-corrects: the marginal value of deliberate listening effort
+is higher, not equal, when applied specifically toward perspectives least
+like the leader's own default frame.
+
 ## Exercise
 
 Run the Development Equity Audit in section 2 on your own team using

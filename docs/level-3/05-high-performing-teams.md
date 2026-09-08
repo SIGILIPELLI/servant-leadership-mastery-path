@@ -120,6 +120,46 @@ underused: close the loop. When a piece of work produces a real outcome
 — tell the specific people who did it, specifically what happened, not
 "great job team."
 
+## How It Actually Works
+
+The "five conditions in order of leverage" reflects a real dependency
+structure, not an arbitrary checklist — each higher condition is
+mechanistically gated by the ones below it. Psychological safety (from
+Level 2) is foundational because every other condition requires people to
+actually voice information (a dependability concern, a structural
+ambiguity, a doubt about the team's purpose), and voicing requires the risk
+calculation covered in the psychological-safety module to already favor
+speaking up. Dependability — can I trust you'll do what you said — is next
+because it's the input the repeated-game trust equilibrium (Level 1) needs
+data points to build; you cannot assess reliability from zero observed
+commitments. Structure and clarity depend on both of the above because
+resolving role ambiguity requires people to be willing to name the
+ambiguity (safety) and to trust that raising it won't be read as
+undermining someone (dependability already established). This is why fixing
+a "meaning and impact" problem in a team that lacks basic dependability
+rarely works — the intervention is targeting a condition several levels
+up a dependency chain from where the actual constraint sits.
+
+**Why the RACI mistake happens even when everyone has good intentions.**
+A RACI matrix specifies role clarity on paper, but clarity as an
+*organizational document* and clarity as a *shared mental model each
+person actually holds* are different things — the document doesn't
+automatically propagate into everyone's working assumptions unless it's
+actively used and referenced. This is the same gap discussed in the
+delegation modules between what a leader believes was communicated and what
+was actually internalized: a RACI chart that exists but isn't actively
+consulted produces the illusion of clarity (there's a document!) without
+the actual shared model clarity requires.
+
+**Why meaning and impact often go missing together, not independently.**
+Both draw on the same underlying cognitive process: connecting a person's
+specific, often narrow daily task to a downstream outcome they can
+actually picture. When that connective narrative is missing, the same gap
+shows up as both "I don't know why this matters" (meaning) and "I don't
+know if what I did actually helped" (impact), because they're really one
+missing link — the causal chain from task to outcome — manifesting as two
+different-sounding complaints.
+
 ## Exercise
 
 Run the Team Diagnostic in section 2 on your own team — ideally as an

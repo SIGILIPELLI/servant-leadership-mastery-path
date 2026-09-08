@@ -139,6 +139,47 @@ deadline for working through the framework (a day, not a month) and
 decide, explicitly accepting the cost identified in the last line of the
 framework, rather than treating indecision as neutral.
 
+## How It Actually Works
+
+Recognizing a genuine ethical dilemma versus an ordinary hard tradeoff
+comes down to a structural feature: a real ethical dilemma pits two
+legitimate values against each other (loyalty to a struggling employee vs.
+duty to the team relying on their output) such that satisfying one fully
+necessarily comes at the other's expense — there is no available option
+that fully satisfies both, which is different from a merely
+difficult-to-execute decision that has a defensible right answer once you
+work through it. Misidentifying an ordinary hard tradeoff as an ethical
+dilemma (treating "this is unpleasant" as "there is no correct answer")
+leads leaders to avoid deciding when a decision was in fact available;
+misidentifying a genuine dilemma as merely a hard tradeoff leads leaders to
+force a false resolution and then feel surprised when the discarded value
+resurfaces as a real cost later.
+
+**Why a structured framework outperforms intuition specifically under
+ethical pressure.** Moral intuition is fast, automatic, and reliably
+tracks salient, vivid harms well (the trolley-problem literature shows
+people are highly consistent on immediate, visible harm) but is
+demonstrably worse at weighing diffuse, delayed, or structural harms that
+don't trigger the same visceral response — the same threat-detection
+machinery discussed throughout this track is tuned for immediate, concrete
+threats, not abstract downstream ones. A framework that forces explicit
+consideration of stakeholders, principles, and consequences compensates
+for this known blind spot by making the leader deliberately search for
+harms their intuition wouldn't have flagged on its own — it's a checklist
+against a specific, predictable cognitive bias, not bureaucracy for its own
+sake.
+
+**Why speed and ethical rigor trade off, and why that tradeoff is often
+real rather than a false urgency.** Deliberate ethical reasoning uses the
+same effortful System 2 processing discussed elsewhere in this track,
+which is slower by construction than the fast pattern-matching intuition
+would supply instead. Under genuine time pressure, this is a real cost —
+but the module's point about escalating rather than deciding alone
+recognizes a further mechanism: a second perspective interrupts a single
+leader's motivated reasoning (their stake in a fast answer can bias which
+considerations feel salient to them alone) the same way a second reviewer
+catches errors a sole author's own confirmation bias reliably misses.
+
 ## Exercise
 
 Identify a real, current decision in your role where two legitimate

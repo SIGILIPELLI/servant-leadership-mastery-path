@@ -87,6 +87,51 @@ test) instead of training them to wait for Dana to decide everything —
 which is exactly the dependency a servant leader is trying to avoid
 creating.
 
+## How It Actually Works
+
+Why does the "who grows, who stays dependent" test predict real organizational
+outcomes rather than just sounding nicer? Three mechanisms are doing the work
+underneath Greenleaf's language.
+
+**Locus of control and learned helplessness.** When a leader makes every
+decision and rescues every mistake, team members' brains stop encoding the
+decision-making pathway at all — psychologists call this an external locus
+of control: outcomes feel like they happen *to* you, not *because of* you.
+Over enough repetitions this produces the organizational version of learned
+helplessness (documented originally in Seligman's dog-shock experiments):
+people stop even attempting to solve problems they're capable of solving,
+because their prior experience is that attempting doesn't change what
+happens. A traditional leader who "solves it faster" every time is, session
+by session, training exactly this response into the team — the team gets
+*more* dependent, not less, the longer that leader is competent and
+available.
+
+**Servant leadership as a deliberate cost trade.** Letting Dana's engineers
+document tradeoffs and argue it out themselves is strictly slower in the
+short run than Dana just deciding — there is no mechanism by which
+consultation is faster. The bet a servant leader is making is that this
+extra cost is capital investment: it moves decision-making capacity into
+the team's own long-term memory (specifically, procedural memory for *how
+to weigh tradeoffs*, not just declarative memory of *what was decided*),
+which compounds every time a similar decision comes up afterward without
+Dana in the room. A leader who always decides is optimizing for this
+quarter's throughput; a leader who coaches the decision is optimizing for
+the derivative of the team's capability curve.
+
+**Power as a renewable resource, not a fixed one.** The traditional model
+treats authority as zero-sum — the leader "spends" it by directing, and
+protects it by not admitting uncertainty or need for help. Servant
+leadership treats influence as something that regenerates through use in
+the *opposite* direction: research on reciprocity norms (Gouldner, and
+later social-exchange theory in organizational psychology) shows that when
+a leader visibly transfers real decision authority to someone, the
+recipient's felt obligation to reciprocate — with discretionary effort,
+loyalty, and honest information sharing upward — tends to exceed the value
+of the authority given up. That reciprocal information flow is precisely
+what a top-down leader, who never needed to earn it, doesn't get: their
+team executes but doesn't volunteer the early warning signs a servant
+leader's team routinely surfaces.
+
 ## Exercise
 
 Think of a leader you've worked under — a manager, coach, teacher, or

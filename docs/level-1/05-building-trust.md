@@ -75,6 +75,46 @@ until someone notices the org chart didn't change two months later.
   competence issue (the ask was cut) and the separate integrity issue (the
   delay in telling them) without blending them into one vague apology.
 
+## How It Actually Works
+
+Trust between a leader and a team is best modeled as an equilibrium in a
+**repeated game**, not a fixed personal attribute someone either has or
+lacks. In game theory, a single interaction (a one-shot Prisoner's Dilemma)
+rationally favors defection — betray the other party, since there's no
+future interaction to punish it. But when the same two parties interact
+repeatedly with an unknown end point, cooperation becomes the rational
+equilibrium strategy (this is the folk theorem result, and it's the same
+logic behind the famous success of "tit-for-tat" in Axelrod's iterated
+tournaments): each party cooperates because the discounted value of future
+cooperation exceeds the one-time gain from defecting now. This is precisely
+why trust is "built in small moments, not big ones" — every small kept
+commitment is another round of the repeated game resolving toward
+cooperation, and it's why a single significant betrayal can undo dozens of
+small deposits: it changes the other party's estimate of your strategy
+going forward, not just their feeling about one incident.
+
+**Why competence and character are separate trust variables, not one
+scale.** The trust equation typically separates reliability/competence
+(will they do it well?) from integrity/benevolence (are their intentions
+toward me good?) because they fail independently and are diagnosed by
+different evidence. A leader can be highly competent and still be
+distrusted because their incentives are read as misaligned with the team's
+(low benevolence) — this is a common failure for leaders who deliver
+results but are perceived as doing so *at the team's expense*. Repair
+strategies differ accordingly: a competence failure is repaired by
+demonstrated capability over time; a benevolence/integrity failure requires
+an explicit acknowledgment and a visible change in incentive alignment,
+because no amount of competence signals resolve a fear about intent.
+
+**Repairing broken trust is slower than building it because of negativity
+bias.** Loss-aversion research (Kahneman & Tversky) shows people weight a
+negative signal roughly twice as heavily as an equivalent positive one when
+updating a belief. After a violation, a leader needs roughly proportionally
+more consistent positive evidence than the original violation cost — not
+because people are being unfair, but because the updating process itself is
+asymmetric by design (a useful survival bias in general: overweighting
+threats has higher evolutionary payoff than overweighting good news).
+
 ## Exercise
 
 Using the trust equation, rate yourself honestly (1-5) on each of

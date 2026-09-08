@@ -91,6 +91,43 @@ it's his own anxiety about having over-committed — which is useful,
 because it points him toward fixing how he scopes commitments (a different
 problem) rather than training himself to just tolerate the trigger.
 
+## How It Actually Works
+
+The pause-name-choose sequence isn't a soft trick — it exploits a real
+anatomical bottleneck. A threat or frustration signal reaches the amygdala
+(via the thalamus) in roughly 100-200 milliseconds, well before the signal
+reaches the prefrontal cortex, which handles deliberate reasoning and takes
+several hundred milliseconds longer to weigh in. In that gap, the amygdala
+can already trigger a fight/flight/freeze response — raised heart rate,
+narrowed attention, an urge to snap back or shut down — before you've
+consciously "decided" anything. This is why willpower alone often fails in
+the moment: you're trying to out-reason a response that already fired.
+
+**Naming an emotion recruits the prefrontal cortex to regulate the
+amygdala.** Neuroimaging studies (notably Lieberman et al.'s "affect
+labeling" work) show that simply putting a feeling into words — silently
+thinking "I'm feeling defensive right now" rather than acting from
+defensiveness — activates the right ventrolateral prefrontal cortex and
+measurably *reduces* amygdala activity in the same scan. This isn't a
+metaphor for calming down; it's the literal mechanism the pause-name-choose
+habit is built on. The "name" step in the sequence is doing the same job as
+affect labeling in the lab: it converts a raw physiological surge into a
+labeled, thinkable object, which is what makes the "choose" step
+possible at all — you cannot deliberately choose a response to a feeling
+you haven't yet represented in language.
+
+**Why the reaction log compounds over time.** Each written entry forces a
+second, delayed pass through the same event using System 2 (slow,
+deliberate) processing instead of System 1 (fast, automatic) processing —
+in Kahneman's terms. Repeating this deliberate reprocessing of similar
+triggers gradually reshapes the automatic response itself, because the
+brain's threat-appraisal circuitry updates based on repeated associations,
+not one-time insight. This is the same principle behind exposure-based
+therapy for anxiety: the goal isn't to think your way out of a trigger once,
+but to repeatedly generate a different response until the automatic
+appraisal itself changes — which is why a log kept for a week rarely
+produces change, but one kept for a month often does.
+
 ## Exercise
 
 For the next five working days, keep a reaction log using the table format

@@ -135,6 +135,42 @@ a real, disclosed development path toward your own seat, that is itself
 the single point of failure the matrix in section 2 is designed to
 surface, and it is the one leaders are most tempted to leave blank.
 
+## How It Actually Works
+
+The secret-list approach fails structurally because it violates the same
+information-symmetry principle that made delegation contracts and
+promotion rubrics work when they're explicit and fails when they're not.
+A hidden succession plan still shapes real decisions (who gets stretch
+assignments, whose development gets prioritized) while giving the people
+affected by those decisions no accurate model of why they're happening —
+which means each person fills the information gap with their own guess,
+and guesses about being passed over tend to run more negative and more
+certain than the ambiguous reality, producing exactly the flight risk and
+disengagement a leader hoped to avoid by keeping the list secret in the
+first place.
+
+**Why transparency about succession changes incentives, not just
+feelings.** Once a candidate knows specifically what capability gap stands
+between them and readiness, that information converts an ambiguous,
+unmotivating uncertainty into an actionable target — this mirrors the
+same specificity mechanism from the Level 2 talent-development module,
+where vague development goals produce divergent, uncalibrated effort while
+specific ones produce targeted, measurable growth. Secrecy doesn't protect
+candidates from disappointment; it removes the only information that would
+let them close the gap.
+
+**Why the cost of silence to candidates not chosen is a real, measurable
+cost, not just a feelings problem.** Candidates who invested effort based
+on an unstated expectation of succession, then learn only at the moment of
+decision that they weren't chosen, experience the negativity-bias-amplified
+version of a broken-trust event described in Level 1's trust module — a
+single vivid negative surprise outweighs years of otherwise-positive
+treatment in their updated assessment of the relationship, which is why
+organizations that handle succession opaquely see disproportionate,
+seemingly-sudden departures from strong performers who were never actually
+in serious contention: the surprise itself, not the outcome, is what
+triggers the reassessment.
+
 ## Exercise
 
 Build the Succession Matrix in section 2 for at least two critical roles

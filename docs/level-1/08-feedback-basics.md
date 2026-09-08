@@ -85,6 +85,47 @@ updates are too long and buried the key point.
   time, background after?" Sam now has a specific, actionable change to
   make, and the next update leads with exactly that.
 
+## How It Actually Works
+
+The Situation-Behavior-Impact structure works because it deliberately keeps
+feedback out of a specific neural danger zone: **identity threat**. Feedback
+framed around traits ("you're disorganized") is processed by the brain
+similarly to a social-status threat — it activates overlapping circuitry
+with physical threat response (this is the basis of Eisenberger's social
+pain research showing social rejection lights up some of the same regions
+as physical pain) — which triggers defensiveness *before* the listener has
+processed the content. SBI's trick is to anchor the feedback to an
+observable event and its measurable effect, deliberately routing around
+the identity/trait layer entirely: "in yesterday's client call (situation),
+when you interrupted the client twice (behavior), they stopped offering
+details for the rest of the call (impact)" describes what happened without
+asserting anything about who the person is, which leaves less surface area
+for a threat response to attach to.
+
+**Why timing changes whether feedback is usable at all, not just how
+comfortable it feels.** Memory consolidation research shows episodic
+detail — the specific sensory and contextual texture of an event — decays
+within hours to days, while a compressed, evaluative summary ("that didn't
+go well") persists much longer. Feedback given days later forces the
+receiver to reconstruct a summary judgment they've already half-formed on
+their own, which triggers a genuine disagreement about facts, not just
+tone. Feedback given the same day still has access to the receiver's actual
+episodic memory of the event, so the two parties can examine what actually
+happened rather than negotiating between two competing summaries.
+
+**Why receiving feedback well requires a distinct skill, not just an
+absence of defensiveness.** Interpreting feedback correctly requires
+holding two things simultaneously that the identity-threat response wants
+to collapse into one: "this specific behavior had this effect" and "I am
+not defined by this one data point." Stanford's Carol Dweck's research on
+growth vs. fixed mindsets shows the difference is largely about which of
+these two framings a person's implicit theory of ability defaults to under
+stress — someone with a fixed-ability mindset hears feedback as a verdict on
+a stable trait, while someone with a growth mindset hears it as information
+about one instance of a skill still being built, which is why the same
+sentence produces wildly different reactions in different people, and why
+receiving feedback well is trainable independent of the feedback itself.
+
 ## Exercise
 
 Think of one piece of feedback you've been meaning to give someone but

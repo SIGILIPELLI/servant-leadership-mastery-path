@@ -136,6 +136,47 @@ decision, and I think that's worth someone above us knowing about" is
 different from "make them do what I want," and peers rarely resent the
 former.
 
+## How It Actually Works
+
+Influence without formal authority runs on a fundamentally different
+mechanism than positional power, and understanding the difference explains
+why "just escalate it" so often fails. Formal authority compels compliance
+through the threat of a consequence the authority-holder controls directly
+(a bad review, a blocked promotion). Influence without that lever has to
+work through one of the mechanisms French and Raven's classic power
+taxonomy identifies as non-positional: expert power (your track record
+makes your judgment credible), referent power (people act because they
+respect or identify with you), or informational power (you hold or can
+surface information the other party needs). The Currency Map exercise is,
+functionally, an inventory of which of these non-positional levers you
+actually hold with a given person — because a request framed around a
+lever you don't have (asserting expertise to someone who doesn't respect
+your expertise) predictably fails no matter how well-reasoned the request
+is.
+
+**Why framing something as the other person's own reasoning works, and
+isn't manipulation.** Cognitive dissonance research (Festinger) shows
+people are far more committed to conclusions they arrive at through their
+own reasoning process than to identical conclusions handed to them,
+because self-generated conclusions are integrated with the person's
+existing belief network in a way that imposed conclusions aren't — this is
+the same self-generation effect from the coaching module, applied to
+persuasion rather than development. A leader who helps someone reason their
+way to "we should prioritize X" produces a durable commitment; a leader who
+simply asserts "we should prioritize X" produces, at best, temporary
+compliance that reverts under any pressure, because the belief was never
+actually integrated into the person's own model.
+
+**Why credibility has to be built before it's needed, not when the
+influence attempt happens.** Credibility functions like the repeated-game
+trust equilibrium from Level 1's trust module — it's assessed from an
+accumulated track record, and a single influence attempt made cold, with no
+prior track record to draw on, is being evaluated with almost no
+supporting evidence, which is why it so often fails even when the
+underlying reasoning is sound. Building visible credibility beforehand is
+depositing evidence into that track record before it's needed, the same
+logic as trust being "built in small moments, not big ones."
+
 ## Exercise
 
 Pick a real ask you currently need from someone who doesn't report to

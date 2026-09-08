@@ -156,6 +156,40 @@ against reality. Review yours with at least one person from section 6 on
 a real calendar cadence, and let them ask you the Level 2 GROW questions
 about your own goal rather than only asking yourself.
 
+## How It Actually Works
+
+Senior leaders' own development quietly stalls for a structural reason
+distinct from earlier-career plateaus: as seniority increases, the pool of
+people positioned to give the leader candid, corrective feedback shrinks —
+most of the people around a senior leader now report to them, and the same
+psychological-safety risk calculation from Level 2 (is the perceived cost
+of speaking up higher than the value?) runs in the *opposite* direction
+here, where the "cost" is jeopardizing one's relationship with someone who
+controls your own career outcomes. The leader isn't getting worse feedback
+because they're doing worse; they're getting less feedback because the
+structural incentives for candor have inverted as their formal power grew.
+
+**Why a personal board of truth-tellers is a deliberate structural fix,
+not a nice-to-have.** Because internal reports face the incentive
+distortion above, a leader needs sources of candid input structurally
+insulated from that distortion — peers at similar seniority in other
+organizations, a coach with no stake in the leader's internal politics, or
+former colleagues no longer in a reporting relationship. This mirrors the
+same logic behind external audits in accounting: an evaluator with no
+stake in the outcome being evaluated is structurally more likely to report
+accurately than one whose own interests are entangled with the answer.
+
+**Why "testing yourself the way you'd test anyone else" matters, given the
+same self-assessment blind spot covered in the leadership-effectiveness
+module.** A senior leader evaluating their own growth is subject to the
+identical motivated-reasoning bias as anyone self-assessing, but with a
+weaker external check than earlier in their career (fewer people above them
+to calibrate against, less structured performance review). Deliberately
+applying to themselves the same externally-sourced-signal discipline they'd
+apply when developing a direct report — not trusting their own felt sense
+of progress alone — compensates for exactly the check that seniority
+otherwise erodes.
+
 ## Exercise
 
 Build your own Personal Leadership Development Plan using the template

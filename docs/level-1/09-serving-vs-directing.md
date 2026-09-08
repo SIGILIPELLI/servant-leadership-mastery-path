@@ -79,6 +79,46 @@ since the engineer was stuck) rather than abandoning them to figure it
 out from zero — the mindset shift is about *how* she helped, not whether
 she helped at all.
 
+## How It Actually Works
+
+The "directing default" is sticky because it is, structurally, a
+low-cognitive-load habit competing against a high-cognitive-load
+alternative. Directing draws on procedural memory and requires only
+retrieving an answer and stating it — fast, automatic, System 1 processing
+in Kahneman's framework. Serving (asking a clarifying question, resisting
+the urge to hand over a solution, tolerating the other person's slower
+path to the same place) requires actively inhibiting the automatic response
+and substituting a deliberate one — System 2 processing, which is
+metabolically and attentionally expensive and degrades fast under fatigue,
+time pressure, or stress. This is why leaders who are entirely capable of
+serving in a calm one-on-one revert to directing in a crisis: it isn't
+hypocrisy, it's the well-documented pattern of stress narrowing behavior
+toward whatever response requires the least cognitive resources to execute.
+
+**Why "the in-the-moment check" (pausing to ask which mode you're in) is
+the actual intervention, not a soft ritual.** Because directing is the
+automatic default, the only reliable point of leverage is the brief window
+between the urge to direct and the act of directing — the same window
+targeted by the pause-name-choose sequence in Module 2. Once the directing
+response is underway (you've started talking, you've started explaining
+the answer), inhibiting it mid-stream is much harder than inhibiting it
+before it starts, because verbal production, once initiated, has its own
+momentum. This is why the check has to happen *before* responding, not as
+a self-correction partway through a sentence.
+
+**Why serving produces better decisions on non-trivial problems, not just
+better morale.** Directing substitutes the leader's single mental model for
+the group's collective information — which is efficient only if the
+leader's model already contains everything relevant. On problems where the
+person closer to the work holds information the leader doesn't (which is
+most real problems, precisely because the leader is one level removed from
+the day-to-day detail), directing systematically discards that information
+before it's ever surfaced. This is the core insight behind the "wisdom of
+crowds" and distributed-cognition research: a single fast answer from the
+most senior person in the room is often *less* accurate than a slower
+process that aggregates several partial views, even when the senior
+person's individual judgment is strong.
+
 ## Exercise
 
 Over the next three days, each time someone brings you a problem or a

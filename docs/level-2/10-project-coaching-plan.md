@@ -311,6 +311,31 @@ A plan that scores "weak" on *your own change* is not a coaching plan.
 It is a performance-improvement document with friendlier typography, and
 the person will read it that way within a week.
 
+## How It Actually Works
+
+Building a written coaching plan for a real person, rather than practicing
+GROW conversations in the abstract, matters because skill transfer is
+notoriously context-dependent: a technique rehearsed on a hypothetical
+scenario builds a mental model tied to that scenario's specific cues, which
+often fails to trigger when the real cues (this actual person's specific
+hesitations, this actual power dynamic) don't match the practiced ones —
+a well-documented gap in training-transfer research sometimes called
+the "far transfer" problem. Applying the plan template to an actual direct
+report forces the same retrieval-under-real-constraints that will be
+needed on the job, which is the only condition under which the skill
+reliably transfers.
+
+**Why the rubric matters more than it seems to for a self-graded
+exercise.** Self-assessment of one's own coaching questions is vulnerable
+to the same motivated-reasoning bias discussed in Level 1's project module
+— a leader rereading their own plan will tend to read intent into it that
+an outside observer, following the rubric's specific external criteria
+(are the questions genuinely open, does the plan specify a real GROW
+sequence, is there a concrete Will/commitment step), would not
+automatically credit. The rubric functions as an external check precisely
+because it doesn't rely on the plan's author correctly judging their own
+work.
+
 ## Exercise
 
 Build the plan. Choose the person today, and run the two conversations

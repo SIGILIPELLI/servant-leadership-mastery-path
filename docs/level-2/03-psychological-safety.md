@@ -168,6 +168,48 @@ is which sentence came first.
   agreed commitments is not a safety issue and should not be handled as
   one. That is Module 6.
 
+## How It Actually Works
+
+Psychological safety increases team performance through a specific,
+measurable mechanism: it lowers the perceived cost of information-sharing
+enough that people actually share the information they have. Amy Edmondson's
+original research framed this as an interpersonal risk calculation — every
+time someone considers speaking up (flagging an error, admitting confusion,
+raising a concern), they run an implicit cost-benefit check against how the
+group is likely to respond. Where the perceived cost of speaking (being
+seen as incompetent, negative, or disruptive) exceeds the perceived value,
+people default to silence — not from low commitment, but because staying
+silent is, from their own risk model, the rational choice. Psychological
+safety doesn't add information to the team; it changes the risk calculation
+so that information already sitting in individuals' heads actually
+surfaces.
+
+**Why this maps onto the amygdala's threat response, not just a "nice team
+culture."** Speaking up in a group that might respond with ridicule or
+blame activates the same social-threat circuitry discussed in the empathy
+and feedback modules — the anterior cingulate cortex and amygdala treat a
+plausible threat to social standing similarly to a plausible threat to
+physical safety, deep in evolutionary terms status loss endangered survival.
+A team culture that punishes mistakes or dissent, even occasionally, keeps
+this threat circuitry primed, which means people are making the
+speak-or-stay-silent calculation under an aroused stress state that
+narrows their options toward the safest one: silence. Google's Project
+Aristotle found psychological safety as the single strongest predictor of
+team effectiveness across 180 teams specifically because it's upstream of
+whether the team's collective information ever gets used at all.
+
+**Why "the ten seconds after someone speaks up" carries outsized weight.**
+This window functions as a single, highly salient trial in the repeated
+game described in the trust module — the group (and everyone watching)
+updates their risk model for future disclosures based almost entirely on
+what happens in that narrow window, not on general statements about
+"we value openness." One visibly punished disclosure recalibrates
+everyone's private cost estimate upward for a long time, because negative
+evidence about social risk is weighted more heavily than positive
+reassurance (the same negativity-bias asymmetry from the trust module) —
+which is why psychological safety is disproportionately built or destroyed
+in these specific, brief moments rather than in policy statements.
+
 ## Exercise
 
 Run the seven-statement check in section 2 with your team this month,

@@ -221,6 +221,43 @@ have taken to forward the old deck — and Dev now runs these himself.
   distress, "what options do you see?" is not servant leadership, it's
   abdication. Coaching is a mode, not a personality.
 
+## How It Actually Works
+
+The GROW model's power comes from a specific cognitive-science finding
+about how insight is generated versus transmitted: **self-generated
+solutions are encoded and retained differently than received ones.** When a
+coach asks a question that leads someone to their own answer, that answer
+is produced through the person's own retrieval and reasoning pathways —
+which means it's stored alongside the reasoning that produced it. A
+solution handed to someone by an advisor is stored as an isolated fact,
+disconnected from any reasoning trace, which is why advice is so often
+forgotten or misapplied in a slightly different situation: there's no
+retained process to adapt, only a memorized answer that doesn't generalize.
+
+**Why the order (Goal, then Reality, then Options, then Will) matters and
+can't be reordered casually.** Jumping to Options before Reality is fully
+explored means generating solutions to an incompletely specified problem —
+the coaching equivalent of debugging code without reproducing the actual
+bug first. And skipping straight to Goal-setting without first
+establishing Reality anchors the goal to an idealized, not actual, starting
+point, which routinely produces plans that don't survive contact with
+constraints the person didn't articulate because no one asked. The
+model's ordering exists specifically to prevent premature solutioning,
+which research on both software debugging and clinical diagnosis
+identifies as one of the most common and costly failure modes in complex
+problem-solving.
+
+**Why "the two failure modes" (rescuing and interrogating) both defeat the
+mechanism.** Rescuing — sliding into giving the answer — reverts the
+interaction to advice-transmission, losing the self-generation effect
+described above. Interrogating — a rapid-fire sequence of closed questions
+— triggers the same identity-threat response covered in the feedback
+module (it starts to feel like being tested, not explored), which shifts
+the person's cognitive resources toward self-protection rather than open
+reflection. Effective coaching questions are deliberately open and spaced,
+because the goal is to give the prefrontal cortex room to actually
+construct an answer, not just retrieve a rehearsed one.
+
 ## Exercise
 
 Pick one real conversation coming up this week where your instinct is to

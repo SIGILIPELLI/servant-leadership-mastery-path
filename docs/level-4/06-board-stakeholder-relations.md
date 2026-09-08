@@ -129,6 +129,44 @@ than vague, and track whether the relationship is a net deposit or
 withdrawal over time rather than judging it by the last interaction
 alone.
 
+## How It Actually Works
+
+"Manage the board" is the wrong frame because it treats the board
+relationship as a persuasion problem to be won in each interaction, when it
+is actually the same repeated-game trust structure from Level 1's trust
+module, played at high stakes with a small number of long-lived players. In
+a repeated game with a small number of highly attentive participants,
+individual instances of information-shading or spin are detected far more
+reliably than in a large, low-attention population — board members compare
+notes, remember specifics over years, and have strong incentive and
+capacity to notice inconsistency, which means the "manage" strategy that
+might survive in a lower-scrutiny relationship reliably fails here and
+degrades trust faster than it would in almost any other leadership context.
+
+**Why delivering bad news before it's asked for pays off in the trust
+equilibrium even though it feels costly in the moment.** This is a direct
+application of the asymmetric-weighting principle from the trust module: a
+board that discovers bad news was known and withheld updates its model of
+the leader's strategy toward "conceals information," and that update
+persists and colors interpretation of *all future information* from that
+leader, not just the withheld item — because the board can no longer be
+confident any given report is complete. Proactive disclosure, even of
+unwelcome facts, is depositing evidence of the "discloses fully" strategy,
+which is the higher-trust equilibrium in the repeated game and produces a
+board that extends more benefit of the doubt in ambiguous future
+situations.
+
+**Why building the board's own capability (not just informing them)
+changes their oversight quality, not just their comfort level.** A board
+that receives only conclusions has to evaluate the leader's judgment
+without the underlying model that produced it — an information-poor
+position that pushes them either toward passive rubber-stamping (no basis
+to challenge) or reflexive skepticism (no basis to trust). A board given
+the actual reasoning framework can evaluate the *logic*, not just the
+output, which produces both better oversight (they can catch real
+flaws in reasoning) and more durable trust (their confidence is grounded
+in verified process, not blind faith in outcomes).
+
 ## Exercise
 
 Build the Board Trust Ledger in section 2 for your actual board or

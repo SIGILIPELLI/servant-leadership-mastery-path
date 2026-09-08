@@ -87,6 +87,32 @@ exercise.
 | What I owe the people I lead | Modules 3, 6, 7, 8 — listening, delegation, communication, feedback |
 | Where I'm still working on this | Module 5 — trust equation weak spot; Module 9 — directing default |
 
+## How It Actually Works
+
+Writing the philosophy statement down, rather than just holding the ideas
+as an intention, matters mechanically. **Implementation intentions**
+research (Gollwitzer) shows that a specific, written if-then commitment
+("when I notice myself about to answer a question I could instead ask
+back, I'll pause and ask") produces measurably higher follow-through than
+an equally sincere general intention ("I want to be a more empowering
+leader"), because the written form pre-loads a specific behavioral trigger
+into memory, rather than relying on in-the-moment willpower to both
+recognize the situation *and* generate the right response from scratch.
+
+**Why reviewing against Greenleaf's test (rather than your own gut sense of
+"does this sound like me") catches self-serving drift.** Self-assessment of
+one's own leadership intentions is vulnerable to motivated reasoning — the
+well-documented tendency to interpret ambiguous evidence in whatever
+direction is most flattering to your existing self-concept. A leader
+drafting their own philosophy will, without noticing, describe the version
+of themselves they want to be rather than the pattern of behavior a
+neutral outside observer would actually document. Anchoring the review to
+Greenleaf's specific, outcome-based questions (do those served grow, become
+more autonomous, more likely to serve others themselves?) forces evaluation
+against external, checkable criteria instead of internal narrative — which
+is exactly why the statement is meant to be revisited later against real
+evidence, not simply reread and nodded at.
+
 ## Exercise
 
 Write the full 1-2 page personal servant leadership philosophy statement

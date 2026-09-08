@@ -161,6 +161,46 @@ pretending they have options they don't. Name that plainly instead:
 what I can do is X" is more respectful than forcing a coaching frame onto
 a situation that calls for direct information or support.
 
+## How It Actually Works
+
+At the advanced level, GROW's ordering constraint is best understood
+through a decision-theory lens: exploring Options before Reality is fully
+specified is optimizing over the wrong search space. Reality-gathering is,
+formally, reducing uncertainty about the actual state of the problem before
+committing computational (or conversational) effort to searching for
+solutions — the coaching equivalent of specification before design. Skip
+it, and Options-generation searches a space defined by the coach or
+coachee's *assumed* version of Reality, which routinely diverges from the
+actual constraints in ways that only surface once a plan built on the wrong
+assumptions fails to execute — at which point the cost of having skipped
+Reality is paid in wasted implementation effort rather than the much
+cheaper cost of a few extra minutes of questions upfront.
+
+**Why "coaching questions that keep you honest to the model" function as a
+bias-correction mechanism, not a script.** A coach under time pressure or
+personal investment in a particular outcome is vulnerable to a specific,
+well-documented failure: unconsciously steering questions toward a
+predetermined answer (leading questions), which collapses the
+self-generation mechanism from the Level 2 coaching module back into
+disguised advice-giving — the coachee still "arrives" at an answer, but
+it's the coach's answer wearing the coachee's words, so it doesn't get the
+retention or ownership benefit of a genuinely self-generated one. The
+honesty-check questions exist because coaches, like anyone, are subject to
+confirmation bias and can't reliably self-detect it from inside a
+conversation they're actively invested in.
+
+**Why GROW isn't the right tool for some situations, and recognizing that
+is itself part of the skill.** GROW assumes the coachee has the requisite
+capability and information to generate a viable answer if guided well — it
+is a retrieval-and-construction process, not a knowledge-transfer one. When
+the actual gap is a missing fact or skill the coachee has no way to derive
+(a technical constraint they've never encountered, a policy they don't know
+exists), no amount of well-sequenced questioning will produce it, because
+there's nothing there to retrieve — this is the situation where direct
+instruction is the mechanistically correct choice, and insisting on
+coaching regardless wastes time searching for an answer that isn't
+present in the coachee's existing knowledge.
+
 ## Exercise
 
 Pick a real, current issue a direct report has raised with you and run

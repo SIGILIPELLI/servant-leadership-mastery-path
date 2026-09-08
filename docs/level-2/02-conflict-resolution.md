@@ -175,6 +175,50 @@ rule, and one sentence naming the shared interest.
 - **Power asymmetry.** If one party reports to the other, joint mediation
   is compromised. Handle it as a management conversation instead.
 
+## How It Actually Works
+
+The positions-vs-interests distinction (from the Harvard Negotiation
+Project's principled-negotiation research) works because positions and
+interests occupy different points in a solution space. A position ("I need
+the deadline moved") is one specific point already selected from a larger
+space of solutions that could satisfy the actual underlying interest
+("I'm worried about quality if we rush"). Two people arguing their
+positions are comparing two single points and finding they don't match —
+which looks like a zero-sum conflict. Once both interests are surfaced,
+the search moves to the much larger space of solutions that could jointly
+satisfy both interests (more resources, reduced scope, a phased release),
+most of which neither party had considered because they'd each already
+narrowed to one point before the conversation started. Mediation structured
+around positions is mathematically more likely to find no overlap;
+mediation structured around interests is searching a strictly larger
+space.
+
+**Why the three-meeting structure (separate, then joint) outperforms
+jumping straight to a joint conversation.** Conflict activates the same
+threat-response system covered in the empathy and psychological-safety
+modules — under threat, people's stated positions harden and their ability
+to generate creative options narrows (a documented effect called
+"threat-induced cognitive constriction"). A private first meeting lets each
+party's threat response settle before they have to reason jointly, and it
+lets the mediator identify each side's real interest without the
+performative hardening that happens when a position is stated in front of
+the other party (once someone states a position publicly, backing off it
+costs face, which makes it harder to move even after they'd privately
+concede the point).
+
+**Why choosing the wrong conflict mode is a mismatch cost, not just a
+preference issue.** Each of the five conflict-handling modes (Thomas-Kilmann:
+competing, collaborating, compromising, avoiding, accommodating) trades
+assertiveness against cooperativeness differently, and each is the
+objectively correct choice for a different structural situation — a
+one-time, low-stakes disagreement genuinely doesn't warrant the time cost
+of full collaboration, while a high-stakes recurring disagreement between
+people who'll keep working together genuinely does. A leader defaulting to
+one mode regardless of situation (commonly: always avoiding, or always
+competing) is applying a fixed strategy to a variable-payoff game, which
+guarantees suboptimal outcomes in every situation that doesn't match their
+default.
+
 ## Exercise
 
 Identify one live friction on your team — including the mild kind you've

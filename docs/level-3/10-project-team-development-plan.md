@@ -216,6 +216,34 @@ her own surprise at the gap, which is where the real loop became visible.
 | Leader's own change | Absent or vague | Specific, observable, team may hold you to it |
 | Measurement | "We'll see how it feels" | A hard-to-fake signal, a re-run date, and a stated failure condition |
 
+## How It Actually Works
+
+Building a team development plan against a real team, using the
+five-conditions framework from Module 5 and the loop-diagram tools from
+Module 3 together, forces integration of skills that are usually practiced
+separately — and integration, not isolated repetition, is what
+distinguishes expert-level judgment from a collection of individually
+mastered techniques. Cognitive science of expertise (chunking research,
+following Chase and Simon's classic chess studies) shows that experts don't
+just know more individual facts than novices — they've built larger,
+integrated "chunks" that let them recognize a whole situation pattern
+(here: a team that's dependable but lacks psychological safety, with a
+specific reinforcing loop driving it) and respond to the pattern as a unit,
+rather than reasoning from first principles about each module's tools
+separately every time. A single-topic exercise builds isolated pieces; a
+whole-team plan is what forces those pieces into an integrated chunk.
+
+**Why the rubric-based self-review again matters here, more than in the
+Level 2 version.** As the plans grow more complex (a diagnosis, a loop
+map, a staged intervention), there are more places for motivated reasoning
+to quietly smooth over a genuine gap in the diagnosis — a leader
+drafting their own plan is more likely to describe the team as they
+hope it is once past the initial audit stage. The rubric's specific,
+external checkpoints (is the diagnosis backed by the actual audit
+evidence, does the loop diagram identify a real reinforcing or balancing
+structure rather than an assumed one) are what catch this at the more
+complex, more failure-prone integration stage.
+
 ## Exercise
 
 Run the anonymous Team Diagnostic on your real team this week — not your

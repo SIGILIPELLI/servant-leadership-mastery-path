@@ -133,6 +133,45 @@ whether the leader told the truth when it was hard, and whether the
 organization the leader built kept working after they left. Those three
 are, not coincidentally, exactly what the Legacy Inventory measures.
 
+## How It Actually Works
+
+The legacy-versus-dependency test — does the organization function well
+after you leave, or does it need you specifically — is a direct
+extrapolation of the delegation and decision-rights mechanism from Level 1
+applied over a leader's entire tenure rather than one task. A leader who
+built genuine legacy has, cumulatively across years, transferred decision
+rights and capability into the organization's own structures and people's
+own judgment; a leader who built dependency has, however unintentionally,
+retained the evaluate-and-decide step personally across enough of the
+organization's important decisions that removing them removes a
+load-bearing component the system never developed its own replacement for.
+This is detectable structurally, not just by feel: count how many
+significant decisions still route through the leader personally after
+years in the role, versus how many now happen without them.
+
+**Why legacy has to be a present-tense practice, not a retirement-adjacent
+project.** Capability transfer follows the same skill-consolidation
+timeline as the neutral-zone learning curve from the change-leadership
+module — it requires the successor to actually practice the decision-making
+under real stakes, repeatedly, before the new pattern becomes reliable
+(automatic, in the System 1 sense) rather than effortful. A leader who
+starts "building legacy" only near departure hasn't left time for enough
+practice cycles to run, which is why organizations regularly see a capable,
+well-intentioned successor struggle badly in year one — not from lack of
+talent, but from inheriting decision authority without having had the
+repeated at-bats needed to consolidate the judgment that produces good
+decisions reliably.
+
+**Why a strong personal brand carries a specific structural risk here.**
+A leader whose visible identity is strongly fused with the organization's
+public identity (the media associates the org's success with them
+personally) creates an implicit signal, read by the market, employees, and
+the board alike, that the organization's continued success is contingent
+on that one person — which is the reputational analogue of the
+dependency trap, and one that persists even if the underlying leadership
+practice was genuinely legacy-building, because perception, not just
+structure, shapes stakeholders' confidence in succession.
+
 ## Exercise
 
 Complete the Legacy Inventory in section 2 honestly, including the last

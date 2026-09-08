@@ -173,6 +173,43 @@ formal 90-day plan the internal promotions never receive.
 | Measurement | Satisfaction surveys only | A hard-to-fake signal against a real baseline |
 | Failure condition | Absent | A specific number, by a specific date, decided before launch |
 
+## How It Actually Works
+
+Designing an org-wide leadership development program that itself embeds
+servant leadership requires applying nearly every mechanism this track has
+covered as one integrated system, and the integration itself is the hard
+part cognitive-expertise research points to: chunked, pattern-level
+judgment (as discussed in Level 3's capstone) rather than sequential
+application of individual techniques. A program that gets the individual
+pieces right in isolation — good coaching content, a fair promotion
+rubric, solid crisis communication training — can still fail as a system if
+the pieces send conflicting reinforcement signals to participants, the
+same contradiction-of-signals failure identified in the org-wide-culture
+module, just now designed into a formal curriculum rather than emerging
+accidentally from disconnected policies.
+
+**Why the program has to embed the same three systems (hiring, promotion,
+performance management) rather than existing as a standalone training
+track.** A training program that teaches servant-leadership skills but
+isn't reflected in what actually gets rewarded is, mechanically, the value
+statement problem from Level 4 Module 2 at curriculum scale: training
+without a matching reinforcement pathway carries no consequence signal, so
+the actual reward-tracking mechanism people use to infer real priorities
+will discount it relative to whatever promotion and performance criteria
+remain unchanged. A capstone-quality program design has to specify how the
+training content connects to the reinforcement systems that make behavior
+actually persist after the training session ends.
+
+**Why the rubric-based self-review is even more load-bearing at capstone
+scale.** With this many interacting components (curriculum design, hiring
+and promotion alignment, succession, measurement), the surface area for
+motivated reasoning to smooth over a genuine gap grows accordingly — a
+designer can convince themselves a program "covers" psychological safety
+by including a training module on it, without the rubric forcing the
+harder external question of whether the program's actual reinforcement
+systems (not just its stated curriculum) would produce the effect in
+practice.
+
 ## Exercise
 
 Build the full program using the template in section 2 for a real or

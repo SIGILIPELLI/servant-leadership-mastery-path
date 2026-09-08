@@ -76,6 +76,45 @@ slip by two weeks.
   ends with a specific ask rather than leaving the stakeholder to guess
   what happens next.
 
+## How It Actually Works
+
+Clarity beats cleverness because of a hard limit on working memory, not
+because of taste. Working memory can hold roughly 4 (Cowan's revised
+estimate, down from Miller's classic "7±2") independent chunks at once
+before older ones get displaced. A cleverly layered message — a metaphor
+wrapped around a caveat wrapped around the actual ask — forces the listener
+to hold the outer structure in working memory while decoding the inner
+content, competing for the same limited slots the actual message needs.
+Plain, front-loaded statements ("here's the decision, here's why, here's
+what I need from you") consume fewer working-memory slots for structure,
+leaving more capacity for the listener to actually engage with the content
+— which is why dense, "smart-sounding" messages are frequently
+*misunderstood* by smart audiences, not because the audience is unable to
+follow but because parsing effort has crowded out comprehension.
+
+**Why the message-audience-medium mismatch produces predictable failure.**
+Communication requires the sender's mental model to survive encoding into
+a channel and decoding by a receiver whose prior context differs from the
+sender's. A message calibrated for someone with full context, sent to
+someone without it, forces the receiver to either silently fill gaps with
+guesses (introducing errors that don't surface until later) or to ask
+clarifying questions (which a busy sender often reads as the receiver being
+slow, when it's actually the channel mismatch working as intended — the
+gap was real, and asking closed it early instead of late).
+
+**Why framing changes what people are willing to say next, not just how
+they feel about what was said.** Framing that starts with a fixed
+conclusion ("we're doing X") triggers a different conversational move
+structure than framing that opens with a shared problem ("we're trying to
+solve X — thoughts?") — the first invites compliance or silent
+disagreement (there's no structurally available slot for a counter-proposal
+without it reading as opposition), while the second creates an explicit
+slot for information the leader doesn't have yet. This is a known result in
+conversation-analysis research: the opening move of an exchange
+mechanically constrains what a "fitting" response can be, independent of
+either party's intent — a leader who wants dialogue but opens with a
+decision-framed statement is fighting the structure of their own sentence.
+
 ## Exercise
 
 Think of a message you need to send this week that currently feels vague

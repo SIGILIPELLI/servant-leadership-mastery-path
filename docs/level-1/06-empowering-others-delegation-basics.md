@@ -83,6 +83,47 @@ built by hand every Friday. Two approaches:
   now own end-to-end — freeing Yusuf's time permanently, not just this
   week.
 
+## How It Actually Works
+
+Delegation is often described loosely as "handing off a task," but what is
+actually being transferred is two distinct, separable things: **decision
+rights** (who gets to choose between options) and **accountability** (who
+bears the consequences of the choice). Under-delegating leaders usually
+transfer the *work* — they let someone execute steps — while quietly
+retaining both the decision rights (they specify exactly how) and, in
+their own mind, the accountability (they'll take the blame or credit
+either way). That's not delegation; it's supervised labor. Real delegation
+at the higher levels of the delegation-levels model requires transferring
+decision rights to the other person, which is precisely why it produces
+anxiety in the delegating leader: they are now exposed to outcomes decided
+by someone else's judgment, not their own.
+
+**Why leaders under-delegate even when they know intellectually that they
+should.** This is well explained by a mechanism from prospect theory:
+losses loom larger than equivalent gains. Delegating a decision has an
+asymmetric payoff structure for the leader — if it goes well, the credit
+is diffuse (the team did fine, unremarkable); if it goes badly, the leader
+owns a vivid, attributable failure ("I let them decide and it went wrong").
+Since the downside is emotionally weighted roughly twice as heavily as the
+upside (per the loss-aversion research also underlying the trust module),
+a purely rational-feeling calculation still tilts leaders toward retaining
+control, even when the expected value of delegating is positive. Naming
+this bias explicitly is often what breaks it — leaders can consciously
+correct for a bias they can't feel their way past.
+
+**Why unclear delegation ("just take ownership of this") fails
+predictably.** Decision rights only transfer meaningfully when the *scope*
+of the transferred authority is specified — otherwise both parties default
+to their own guess about what was actually handed over, and the gap
+surfaces later as either the leader overriding a decision they thought was
+still theirs, or the report making a call they thought was authorized and
+getting corrected after the fact. This is the same information-asymmetry
+problem that shows up in principal-agent theory in economics: an agent
+acting on incomplete knowledge of the principal's true preferences will
+systematically make choices the principal didn't want, not from
+incompetence but from a genuine gap in shared information about the
+boundaries of the delegated authority.
+
 ## Exercise
 
 Pick one task currently on your own plate that you're doing purely out of
