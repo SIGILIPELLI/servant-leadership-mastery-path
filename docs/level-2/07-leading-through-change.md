@@ -261,6 +261,10 @@ or the quality of the new approach, and everything to do with the
 learning curve every new procedure has to pass through before it can run
 automatically.
 
+## 🔀 Related lessons on other tracks
+
+- [AI Manager — 04 · Leading Through AI Disruption](https://sigilipelli.github.io/ai-manager-mastery-path/level-4/04-leading-through-ai-disruption/)
+
 ## Exercise
 
 Take a change your team is living through now, or one you know is

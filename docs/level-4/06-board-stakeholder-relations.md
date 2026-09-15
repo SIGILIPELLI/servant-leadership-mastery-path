@@ -171,6 +171,10 @@ output, which produces both better oversight (they can catch real
 flaws in reasoning) and more durable trust (their confidence is grounded
 in verified process, not blind faith in outcomes).
 
+## 🔀 Related lessons on other tracks
+
+- [Product Lead — Advanced Stakeholder Management (Board-Level)](https://sigilipelli.github.io/product-lead-mastery-path/level-3/09-board-level-stakeholder-management/)
+
 ## Exercise
 
 Build the Board Trust Ledger in section 2 for your actual board or

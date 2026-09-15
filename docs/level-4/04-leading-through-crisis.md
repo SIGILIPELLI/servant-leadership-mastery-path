@@ -178,6 +178,11 @@ is the only one of the three options that actually gives the
 threat-detection system something concrete to stop scanning for, even
 though it's also the most uncomfortable to say out loud.
 
+## 🔀 Related lessons on other tracks
+
+- [Project Manager — 04 · Crisis & Turnaround Project Leadership](https://sigilipelli.github.io/project-manager-mastery-path/level-4/04-crisis-turnaround-leadership/)
+- [AI Manager — 04 · Leading Through AI Disruption](https://sigilipelli.github.io/ai-manager-mastery-path/level-4/04-leading-through-ai-disruption/)
+
 ## Exercise
 
 Write the Crisis Communication Script in section 2 for a plausible crisis

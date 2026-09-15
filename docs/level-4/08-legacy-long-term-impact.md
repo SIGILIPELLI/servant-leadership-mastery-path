@@ -176,6 +176,11 @@ dependency trap, and one that persists even if the underlying leadership
 practice was genuinely legacy-building, because perception, not just
 structure, shapes stakeholders' confidence in succession.
 
+## 🔀 Related lessons on other tracks
+
+- [English Fluency & IELTS — 08 · Building Long-Term Fluency Habits](https://sigilipelli.github.io/english-fluency-mastery-path/level-4/08-building-long-term-fluency-habits/)
+- [Freertos — Long-Term Maintenance & LTS Strategy](https://sigilipelli.github.io/freertos-mastery-path/level-4/09-lts-maintenance/)
+
 ## Exercise
 
 Complete the Legacy Inventory in section 2 honestly, including the last

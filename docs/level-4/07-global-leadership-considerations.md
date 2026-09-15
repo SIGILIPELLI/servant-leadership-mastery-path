@@ -184,6 +184,10 @@ technique while keeping the underlying goal constant, rather than treating
 either extreme (assume everything transfers, or assume nothing does) as
 correct.
 
+## 🔀 Related lessons on other tracks
+
+- [Product Lead — Global Product Org Leadership](https://sigilipelli.github.io/product-lead-mastery-path/level-4/06-global-product-org-leadership/)
+
 ## Exercise
 
 Pick one tool from earlier in this track — a feedback approach, a

@@ -177,6 +177,10 @@ don't average — they get read as evidence that the *stated* value (hiring
 criteria) is the less credible one, since promotion outcomes carry a
 stronger, longer-observed consequence trail than a new hiring rubric does.
 
+## 🔀 Related lessons on other tracks
+
+- [Product Lead — Global Product Org Leadership](https://sigilipelli.github.io/product-lead-mastery-path/level-4/06-global-product-org-leadership/)
+
 ## Exercise
 
 Run the Culture-Embedding Audit in section 2 on your own organization or

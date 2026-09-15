@@ -214,6 +214,12 @@ harder external question of whether the program's actual reinforcement
 systems (not just its stated curriculum) would produce the effect in
 practice.
 
+## 🔀 Related lessons on other tracks
+
+- [AI Manager — 02 · Org Design for AI-First Companies](https://sigilipelli.github.io/ai-manager-mastery-path/level-4/02-org-design-ai-first-companies/)
+- [Cybersecurity — 10 · Capstone — Enterprise Security Program Design](https://sigilipelli.github.io/cybersecurity-mastery-path/level-4/10-capstone-enterprise-security-program/)
+- [Product Lead — 08 · Basic Org Design for Product Teams](https://sigilipelli.github.io/product-lead-mastery-path/level-1/08-basic-org-design/)
+
 ## Exercise
 
 Build the full program using the template in section 2 for a real or
