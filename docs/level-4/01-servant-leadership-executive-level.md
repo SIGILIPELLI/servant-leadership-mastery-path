@@ -1,3 +1,7 @@
+---
+description: "Servant Leadership at the Executive Level — Everything so far in this track has been calibrated to leading individuals or a single team. Executive…"
+---
+
 # 01 · Servant Leadership at the Executive Level
 
 Everything so far in this track has been calibrated to leading

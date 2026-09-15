@@ -1,3 +1,7 @@
+---
+description: "Leading Through Change — Reorganisations, new systems, budget cuts, a merged team, a strategy pivot — the announcement takes ten minutes and the…"
+---
+
 # 07 · Leading Through Change
 
 Reorganisations, new systems, budget cuts, a merged team, a strategy

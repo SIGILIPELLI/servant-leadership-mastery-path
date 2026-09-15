@@ -1,3 +1,7 @@
+---
+description: "Team Development Stages (Tuckman's Model) — A team that argued productively for six weeks and then settled into smooth delivery did not get lucky, and a…"
+---
+
 # 04 · Team Development Stages (Tuckman's Model)
 
 A team that argued productively for six weeks and then settled into

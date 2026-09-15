@@ -1,3 +1,7 @@
+---
+description: "Building Psychological Safety — Ask any team whether people can speak up freely and almost everyone says yes. Then watch what actually happens: the…"
+---
+
 # 03 · Building Psychological Safety
 
 Ask any team whether people can speak up freely and almost everyone says

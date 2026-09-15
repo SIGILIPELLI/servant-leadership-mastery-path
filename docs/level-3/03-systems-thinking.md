@@ -1,3 +1,7 @@
+---
+description: "Systems Thinking for Leaders — A recurring problem that keeps recurring despite good people trying hard to fix it is almost never a people problem. It's a…"
+---
+
 # 03 · Systems Thinking for Leaders
 
 A recurring problem that keeps recurring despite good people trying hard

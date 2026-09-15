@@ -1,3 +1,7 @@
+---
+description: "Conflict Resolution as a Servant Leader — Two people on your team stop cc'ing each other. A handover gets done badly twice in a row and both sides…"
+---
+
 # 02 · Conflict Resolution as a Servant Leader
 
 Two people on your team stop cc'ing each other. A handover gets done

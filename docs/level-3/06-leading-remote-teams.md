@@ -1,3 +1,7 @@
+---
+description: "Leading Remote/Distributed Teams with Servant Leadership — Every servant leadership practice in this track — listening, trust, empowerment, coaching …"
+---
+
 # 06 · Leading Remote/Distributed Teams with Servant Leadership
 
 Every servant leadership practice in this track — listening, trust,

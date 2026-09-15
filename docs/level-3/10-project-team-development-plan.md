@@ -1,3 +1,7 @@
+---
+description: "Project — A Team Development Plan — Level 2's project built a plan for one person. This one operates at the level this track has been building toward: a…"
+---
+
 # 10 · Project — A Team Development Plan
 
 Level 2's project built a plan for one person. This one operates at the

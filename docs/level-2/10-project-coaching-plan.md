@@ -1,3 +1,7 @@
+---
+description: "Project — A Coaching Plan for a Direct Report — Everything in this level converges here. A coaching plan is not a development form filed with HR; it is a…"
+---
+
 # 10 · Project — A Coaching Plan for a Direct Report
 
 Everything in this level converges here. A coaching plan is not a

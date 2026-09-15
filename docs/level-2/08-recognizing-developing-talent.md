@@ -1,3 +1,7 @@
+---
+description: "Recognizing & Developing Talent — Most managers identify talent by noticing who reminds them of themselves, and then develop it by sending that person on…"
+---
+
 # 08 · Recognizing & Developing Talent
 
 Most managers identify talent by noticing who reminds them of

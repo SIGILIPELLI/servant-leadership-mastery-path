@@ -1,3 +1,7 @@
+---
+description: "Feedback Basics (Giving and Receiving) — Feedback is where servant leadership either builds trust or spends it. Vague praise builds nothing; harsh, poorly…"
+---
+
 # 08 · Feedback Basics (Giving and Receiving)
 
 Feedback is where servant leadership either builds trust or spends it.

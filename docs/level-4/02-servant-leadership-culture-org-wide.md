@@ -1,3 +1,7 @@
+---
+description: "Building a Servant Leadership Culture Org-Wide — Module 1 of Level 3 taught you to diagnose and shift culture on a team you personally lead. This module…"
+---
+
 # 02 · Building a Servant Leadership Culture Org-Wide
 
 Module 1 of Level 3 taught you to diagnose and shift culture on a team

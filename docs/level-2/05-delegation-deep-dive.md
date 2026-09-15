@@ -1,3 +1,7 @@
+---
+description: "Delegation Deep Dive — Level 1 covered handing over a task. This module covers the two things that actually limit a leader's capacity: handing over a…"
+---
+
 # 05 · Delegation Deep Dive
 
 Level 1 covered handing over a task. This module covers the two things

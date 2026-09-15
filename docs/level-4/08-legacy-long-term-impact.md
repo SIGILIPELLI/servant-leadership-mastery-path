@@ -1,3 +1,7 @@
+---
+description: "Legacy & Long-Term Impact — Every module before this one has an implicit time horizon of months to a few years — the length of a project, a tenure, a…"
+---
+
 # 08 · Legacy & Long-Term Impact
 
 Every module before this one has an implicit time horizon of months to a

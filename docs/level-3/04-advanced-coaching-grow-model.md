@@ -1,3 +1,7 @@
+---
+description: "Advanced Coaching Techniques (the GROW Model) — Level 2's coaching fundamentals taught you to ask more and tell less. This module gives that instinct a…"
+---
+
 # 04 · Advanced Coaching Techniques (the GROW Model)
 
 Level 2's coaching fundamentals taught you to ask more and tell less.

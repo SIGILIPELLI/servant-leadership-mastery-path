@@ -1,3 +1,7 @@
+---
+description: "Capstone — Design an Org-Wide Leadership Development Program — Every project in this track has scaled up: a philosophy statement in Level 1, a coaching…"
+---
+
 # 10 · Capstone — Design an Org-Wide Leadership Development Program
 
 Every project in this track has scaled up: a philosophy statement in

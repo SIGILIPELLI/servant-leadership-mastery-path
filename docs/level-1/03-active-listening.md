@@ -1,3 +1,7 @@
+---
+description: "Active Listening — Most people listen to reply, not to understand — while the other person is talking, part of the brain is already drafting a response, a…"
+---
+
 # 03 · Active Listening
 
 Most people listen to reply, not to understand — while the other person is

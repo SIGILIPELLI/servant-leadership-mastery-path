@@ -1,3 +1,7 @@
+---
+description: "Succession Planning — Succession planning is usually treated as an HR compliance exercise — a spreadsheet updated once a year with a name in the 'ready…"
+---
+
 # 03 · Succession Planning
 
 Succession planning is usually treated as an HR compliance exercise — a

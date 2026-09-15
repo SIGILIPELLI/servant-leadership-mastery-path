@@ -1,3 +1,7 @@
+---
+description: "Coaching Fundamentals for Leaders — Most managers, when a report brings them a problem, solve it. It feels efficient and it feels helpful, and in the…"
+---
+
 # 01 · Coaching Fundamentals for Leaders
 
 Most managers, when a report brings them a problem, solve it. It feels

@@ -1,3 +1,7 @@
+---
+description: "Ethical Leadership & Decision-Making — Most leadership decisions are not moral dilemmas — they have a clearly right answer once you gather the facts. This…"
+---
+
 # 07 · Ethical Leadership & Decision-Making
 
 Most leadership decisions are not moral dilemmas — they have a clearly

@@ -1,3 +1,7 @@
+---
+description: "Global Leadership Considerations — Every framework in this track — the delegation levels, direct feedback, the GROW model's assumption that people will…"
+---
+
 # 07 · Global Leadership Considerations
 
 Every framework in this track — the delegation levels, direct feedback,

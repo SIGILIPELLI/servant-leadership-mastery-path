@@ -1,3 +1,7 @@
+---
+description: "Servant Leadership in Meetings — Meetings are where your leadership is most visible and least examined. Everything from Levels 1 and 2 — listening…"
+---
+
 # 09 · Servant Leadership in Meetings
 
 Meetings are where your leadership is most visible and least examined.

@@ -1,3 +1,7 @@
+---
+description: "Organizational Culture & Servant Leadership — Everything in Levels 1 and 2 lives inside one relationship at a time — you and a report, you and a peer, you…"
+---
+
 # 01 · Organizational Culture & Servant Leadership
 
 Everything in Levels 1 and 2 lives inside one relationship at a time — you

@@ -1,3 +1,7 @@
+---
+description: "Empowering Others (Delegation Basics) — Delegation is the most visible mechanism servant leaders use to grow the people they lead — but delegation done…"
+---
+
 # 06 · Empowering Others (Delegation Basics)
 
 Delegation is the most visible mechanism servant leaders use to grow the

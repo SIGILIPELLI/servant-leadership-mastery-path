@@ -1,3 +1,7 @@
+---
+description: "Building High-Performing Teams — The leverage order matters: investing in 'meaning' workshops on a team that lacks basic dependability (people missing…"
+---
+
 # 05 · Building High-Performing Teams
 
 A team of talented individuals is not the same thing as a high-performing

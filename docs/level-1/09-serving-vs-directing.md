@@ -1,3 +1,7 @@
+---
+description: "Serving vs. Directing (The Mindset Shift) — Every module so far has built a skill — listening, empathy, trust, delegation, communication, feedback. This…"
+---
+
 # 09 · Serving vs. Directing (The Mindset Shift)
 
 Every module so far has built a skill — listening, empathy, trust,

@@ -1,3 +1,7 @@
+---
+description: "Difficult Conversations — The conversations you postpone are the ones that define you as a leader, because the whole team can see what you tolerate. The…"
+---
+
 # 06 · Difficult Conversations
 
 The conversations you postpone are the ones that define you as a leader,

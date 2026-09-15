@@ -1,3 +1,7 @@
+---
+description: "Project — Personal Servant Leadership Philosophy Statement — A single deliverable that pulls together everything from Level 1: your understanding of…"
+---
+
 # 10 · Project — Personal Servant Leadership Philosophy Statement
 
 A single deliverable that pulls together everything from Level 1: your

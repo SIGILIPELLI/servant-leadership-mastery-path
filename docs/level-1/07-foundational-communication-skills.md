@@ -1,3 +1,7 @@
+---
+description: "Foundational Communication Skills — Everything covered so far — listening, empathy, trust, delegation — has to travel through actual communication to have…"
+---
+
 # 07 · Foundational Communication Skills
 
 Everything covered so far — listening, empathy, trust, delegation — has to

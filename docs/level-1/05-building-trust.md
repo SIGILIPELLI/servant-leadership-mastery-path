@@ -1,3 +1,7 @@
+---
+description: "Building Trust — Trust is the currency servant leadership runs on: without it, delegation (Module 6) reads as abandonment, feedback (Module 8) reads as…"
+---
+
 # 05 · Building Trust
 
 Trust is the currency servant leadership runs on: without it, delegation

@@ -1,3 +1,7 @@
+---
+description: "Empathy in Leadership — Empathy is the ability to accurately perceive and understand what someone else is feeling — not just intellectually acknowledging…"
+---
+
 # 04 · Empathy in Leadership
 
 Empathy is the ability to accurately perceive and understand what someone

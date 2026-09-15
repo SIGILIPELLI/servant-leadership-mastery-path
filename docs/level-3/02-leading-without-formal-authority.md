@@ -1,3 +1,7 @@
+---
+description: "Leading Without Formal Authority — Most of the influence you will ever need to exercise in a career happens on people who do not report to you: a peer…"
+---
+
 # 02 · Leading Without Formal Authority
 
 Most of the influence you will ever need to exercise in a career happens

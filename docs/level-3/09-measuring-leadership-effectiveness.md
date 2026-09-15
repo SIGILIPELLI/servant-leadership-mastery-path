@@ -1,3 +1,7 @@
+---
+description: "Measuring Leadership Effectiveness — Everything so far in this track asks you to trust your own read of whether it's working — did that conversation land…"
+---
+
 # 09 · Measuring Leadership Effectiveness
 
 Everything so far in this track asks you to trust your own read of

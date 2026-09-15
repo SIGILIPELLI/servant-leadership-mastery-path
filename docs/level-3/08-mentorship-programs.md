@@ -1,3 +1,7 @@
+---
+description: "Mentorship Programs — Informal mentoring — a senior person occasionally helping a junior one because they happened to click — is real and valuable, and it…"
+---
+
 # 08 · Mentorship Programs
 
 Informal mentoring — a senior person occasionally helping a junior one

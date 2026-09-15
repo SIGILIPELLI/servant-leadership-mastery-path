@@ -1,3 +1,7 @@
+---
+description: "Self-Awareness & Emotional Intelligence Basics — You can't reliably serve other people's growth if you don't understand your own reactions, triggers, and…"
+---
+
 # 02 · Self-Awareness & Emotional Intelligence Basics
 
 You can't reliably serve other people's growth if you don't understand your

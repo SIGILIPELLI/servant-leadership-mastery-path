@@ -1,3 +1,7 @@
+---
+description: "Personal Leadership Development Planning — This entire track has asked you to build development plans for other people — a report in Level 2, a team in…"
+---
+
 # 09 · Personal Leadership Development Planning
 
 This entire track has asked you to build development plans for other

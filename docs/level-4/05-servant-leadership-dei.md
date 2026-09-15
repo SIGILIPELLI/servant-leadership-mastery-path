@@ -1,3 +1,7 @@
+---
+description: "Servant Leadership & DEI — Servant leadership's core commitment — that a leader's job is the growth and wellbeing of the people they lead — sounds…"
+---
+
 # 05 · Servant Leadership & DEI
 
 Servant leadership's core commitment — that a leader's job is the growth

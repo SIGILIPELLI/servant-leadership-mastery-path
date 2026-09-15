@@ -1,3 +1,7 @@
+---
+description: "What Is Servant Leadership? — Servant leadership inverts the usual picture of a leader. Instead of asking 'how do I get people to follow me?' it asks 'how…"
+---
+
 # 01 · What Is Servant Leadership?
 
 Servant leadership inverts the usual picture of a leader. Instead of asking

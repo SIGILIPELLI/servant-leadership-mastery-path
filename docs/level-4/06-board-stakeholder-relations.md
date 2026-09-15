@@ -1,3 +1,7 @@
+---
+description: "Board & Stakeholder Relations — Every relationship this track has covered so far had one asymmetry in your favor: you had more organizational authority or…"
+---
+
 # 06 · Board & Stakeholder Relations
 
 Every relationship this track has covered so far had one asymmetry in

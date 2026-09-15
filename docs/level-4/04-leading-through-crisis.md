@@ -1,3 +1,7 @@
+---
+description: "Leading Through Crisis with Servant Leadership — A genuine crisis — a major outage, a layoff, a public failure, a sudden loss of revenue — is where…"
+---
+
 # 04 · Leading Through Crisis with Servant Leadership
 
 A genuine crisis — a major outage, a layoff, a public failure, a
