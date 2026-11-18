@@ -263,7 +263,7 @@ automatically.
 
 ## 🔀 Related lessons on other tracks
 
-- [AI Manager — 04 · Leading Through AI Disruption](https://sigilipelli.github.io/ai-manager-mastery-path/level-4/04-leading-through-ai-disruption/)
+- [AI Manager — 04 · Leading Through AI Disruption](https://learnmasterypath.com/ai-manager-mastery-path/level-4/04-leading-through-ai-disruption/)
 
 ## Exercise
 

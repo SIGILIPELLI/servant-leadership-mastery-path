@@ -178,8 +178,8 @@ structure, shapes stakeholders' confidence in succession.
 
 ## 🔀 Related lessons on other tracks
 
-- [English Fluency & IELTS — 08 · Building Long-Term Fluency Habits](https://sigilipelli.github.io/english-fluency-mastery-path/level-4/08-building-long-term-fluency-habits/)
-- [Freertos — Long-Term Maintenance & LTS Strategy](https://sigilipelli.github.io/freertos-mastery-path/level-4/09-lts-maintenance/)
+- [English Fluency & IELTS — 08 · Building Long-Term Fluency Habits](https://learnmasterypath.com/english-fluency-mastery-path/level-4/08-building-long-term-fluency-habits/)
+- [Freertos — Long-Term Maintenance & LTS Strategy](https://learnmasterypath.com/freertos-mastery-path/level-4/09-lts-maintenance/)
 
 ## Exercise
 

@@ -2,7 +2,7 @@
 
 A free, structured, module-wise servant leadership training program — entry level to master level, with real frameworks, self-reflection tools, and a hands-on project at the end of each level.
 
-**Live site:** https://sigilipelli.github.io/servant-leadership-mastery-path/
+**Live site:** https://learnmasterypath.com/servant-leadership-mastery-path/
 
 ## Contents
 
@@ -21,6 +21,6 @@ python3 -m venv .venv
 
 ## Related
 
-- [Java Mastery Path](https://sigilipelli.github.io/java-mastery-path/)
-- [Adobe Mastery Path](https://sigilipelli.github.io/adobe-mastery-path/)
-- [Python Mastery Path](https://sigilipelli.github.io/python-mastery-path/)
+- [Java Mastery Path](https://learnmasterypath.com/java-mastery-path/)
+- [Adobe Mastery Path](https://learnmasterypath.com/adobe-mastery-path/)
+- [Python Mastery Path](https://learnmasterypath.com/python-mastery-path/)

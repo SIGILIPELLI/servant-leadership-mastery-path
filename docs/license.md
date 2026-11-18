@@ -21,7 +21,7 @@ You are free to:
 
 **No permission needed, no fee, no login required.** The only condition is
 attribution — credit "Servant Leadership Mastery Path" (or the wider [Mastery Path
-series](https://sigilipelli.github.io/servant-leadership-mastery-path/)) and link back to the
+series](https://learnmasterypath.com/servant-leadership-mastery-path/)) and link back to the
 original page.
 
 ## Code snippets

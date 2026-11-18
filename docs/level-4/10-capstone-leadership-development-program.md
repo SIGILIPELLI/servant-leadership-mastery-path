@@ -216,9 +216,9 @@ practice.
 
 ## 🔀 Related lessons on other tracks
 
-- [AI Manager — 02 · Org Design for AI-First Companies](https://sigilipelli.github.io/ai-manager-mastery-path/level-4/02-org-design-ai-first-companies/)
-- [Cybersecurity — 10 · Capstone — Enterprise Security Program Design](https://sigilipelli.github.io/cybersecurity-mastery-path/level-4/10-capstone-enterprise-security-program/)
-- [Product Lead — 08 · Basic Org Design for Product Teams](https://sigilipelli.github.io/product-lead-mastery-path/level-1/08-basic-org-design/)
+- [AI Manager — 02 · Org Design for AI-First Companies](https://learnmasterypath.com/ai-manager-mastery-path/level-4/02-org-design-ai-first-companies/)
+- [Cybersecurity — 10 · Capstone — Enterprise Security Program Design](https://learnmasterypath.com/cybersecurity-mastery-path/level-4/10-capstone-enterprise-security-program/)
+- [Product Lead — 08 · Basic Org Design for Product Teams](https://learnmasterypath.com/product-lead-mastery-path/level-1/08-basic-org-design/)
 
 ## Exercise
 

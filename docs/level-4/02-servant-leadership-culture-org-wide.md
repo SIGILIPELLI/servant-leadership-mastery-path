@@ -179,7 +179,7 @@ stronger, longer-observed consequence trail than a new hiring rubric does.
 
 ## 🔀 Related lessons on other tracks
 
-- [Product Lead — Global Product Org Leadership](https://sigilipelli.github.io/product-lead-mastery-path/level-4/06-global-product-org-leadership/)
+- [Product Lead — Global Product Org Leadership](https://learnmasterypath.com/product-lead-mastery-path/level-4/06-global-product-org-leadership/)
 
 ## Exercise
 

@@ -225,7 +225,7 @@ default.
 
 ## 🔀 Related lessons on other tracks
 
-- [Project Manager — 08 · Team Management & Conflict Resolution](https://sigilipelli.github.io/project-manager-mastery-path/level-2/08-team-management-conflict/)
+- [Project Manager — 08 · Team Management & Conflict Resolution](https://learnmasterypath.com/project-manager-mastery-path/level-2/08-team-management-conflict/)
 
 ## Exercise
 

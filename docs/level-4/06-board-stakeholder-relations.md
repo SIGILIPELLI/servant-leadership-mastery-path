@@ -173,7 +173,7 @@ in verified process, not blind faith in outcomes).
 
 ## 🔀 Related lessons on other tracks
 
-- [Product Lead — Advanced Stakeholder Management (Board-Level)](https://sigilipelli.github.io/product-lead-mastery-path/level-3/09-board-level-stakeholder-management/)
+- [Product Lead — Advanced Stakeholder Management (Board-Level)](https://learnmasterypath.com/product-lead-mastery-path/level-3/09-board-level-stakeholder-management/)
 
 ## Exercise
 
