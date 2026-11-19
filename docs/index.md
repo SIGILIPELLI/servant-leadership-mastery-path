@@ -65,7 +65,7 @@ honestly — most exercises ask you to apply a framework to your own team,
 manager relationship, or a real situation you're navigating, so the more
 specific and honest your answers, the more useful the exercise becomes.
 
-🎥 **Prefer video?** Watch the [Mastery Path video series](https://youtube.com/@learnmasterypath) on YouTube — Shorts and full walkthroughs of these lessons.
+🎥 **Prefer video?** Watch the [Mastery Path video series](https://youtube.com/@learnmasterypath) on YouTube — Shorts and full walkthroughs of these lessons. [▶ Subscribe free](https://www.youtube.com/@learnmasterypath?sub_confirmation=1)
 
 ## More from the Mastery Path series
 
