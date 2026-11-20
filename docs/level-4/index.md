@@ -1,3 +1,7 @@
+---
+description: "Level 4 (Master) of the free Servant Leadership Mastery Path: Servant Leadership at the Executive Level, Building a Servant Leadership Culture Org-Wide…"
+---
+
 # Level 4 · Master
 
 ## Modules

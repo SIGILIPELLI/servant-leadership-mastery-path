@@ -1,3 +1,7 @@
+---
+description: "Level 1 (Entry) of the free Servant Leadership Mastery Path. Understand what servant leadership actually is (and isn't), build the inner foundations —…"
+---
+
 # Level 1 · Entry <span class="level-badge">Foundations</span>
 
 Goal: understand what servant leadership actually is (and isn't), build the

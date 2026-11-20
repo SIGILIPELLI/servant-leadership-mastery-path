@@ -1,3 +1,7 @@
+---
+description: "Level 3 (Advanced) of the free Servant Leadership Mastery Path: Organizational Culture & Servant Leadership, Leading Without Formal Authority, Systems…"
+---
+
 # Level 3 · Advanced
 
 ## Modules

@@ -1,3 +1,7 @@
+---
+description: "Level 2 (Intermediate) of the free Servant Leadership Mastery Path: Coaching Fundamentals for Leaders, Conflict Resolution as a Servant Leader, Building…"
+---
+
 # Level 2 · Intermediate
 
 ## Modules
