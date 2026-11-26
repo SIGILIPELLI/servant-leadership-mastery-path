@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://learnmasterypath.com/servant-leadership-mastery-path/sitemap.xml
